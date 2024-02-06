@@ -1,0 +1,80 @@
+[
+  {
+    "objects": [
+      {
+        "category": "vehicle",
+        "classId": 5,
+        "classLabel": "truck",
+        "confidence": 0.81,
+        "height": 344.478,
+        "id": 406,
+        "orientation": 0,
+        "width": 547.505,
+        "x": 24.923,
+        "y": 0,
+        "source_height": 360,
+        "source_width": 640
+      },
+      {
+        "category": "person",
+        "classId": 0,
+        "classLabel": "person",
+        "confidence": 0.927,
+        "height": 339.295,
+        "id": 404,
+        "orientation": 0,
+        "width": 329.08,
+        "x": 193.428,
+        "y": 16.941,
+        "source_height": 360,
+        "source_width": 640
+      }
+    ],
+    "seconds": 0,
+    "source_height": 360,
+    "source_id": "2a6be544-c151-11ee-931f-0242ac110007",
+    "source_width": 640,
+    "system_timestamp": 1706826484432400000,
+    "timestamp": 0,
+    "count": 1
+  },
+  {
+    "objects": [
+      {
+        "category": "vehicle",
+        "classId": 5,
+        "classLabel": "truck",
+        "confidence": 0.81,
+        "height": 344.478,
+        "id": 406,
+        "orientation": 0,
+        "width": 547.505,
+        "x": 24.923,
+        "y": 0,
+        "source_height": 360,
+        "source_width": 640
+      },
+      {
+        "category": "person",
+        "classId": 0,
+        "classLabel": "person",
+        "confidence": 0.927,
+        "height": 339.295,
+        "id": 404,
+        "orientation": 0,
+        "width": 329.08,
+        "x": 193.428,
+        "y": 16.941,
+        "source_height": 360,
+        "source_width": 640
+      }
+    ],
+    "seconds": 0,
+    "source_height": 360,
+    "source_id": "2a6be544-c151-11ee-931f-0242ac110007",
+    "source_width": 640,
+    "system_timestamp": 1706826484432400000,
+    "timestamp": 0,
+    "count": 1
+  }
+]

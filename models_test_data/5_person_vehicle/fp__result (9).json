@@ -1,0 +1,136 @@
+[
+  {
+    "objects": [
+      {
+        "category": "person",
+        "classId": 0,
+        "classLabel": "person",
+        "confidence": 0.838,
+        "height": 39.993,
+        "id": 448,
+        "orientation": 0,
+        "width": 17.009,
+        "x": 499.465,
+        "y": 87.387,
+        "source_height": 360,
+        "source_width": 640
+      },
+      {
+        "category": "vehicle",
+        "classId": 0,
+        "classLabel": "bicycle",
+        "confidence": 0.858,
+        "height": 53.328,
+        "id": 452,
+        "orientation": 0,
+        "width": 71.963,
+        "x": 36.488,
+        "y": 303.908,
+        "source_height": 360,
+        "source_width": 640
+      },
+      {
+        "category": "person",
+        "classId": 0,
+        "classLabel": "person",
+        "confidence": 0.913,
+        "height": 55.542,
+        "id": 447,
+        "orientation": 0,
+        "width": 19.96,
+        "x": 249.284,
+        "y": 270.76,
+        "source_height": 360,
+        "source_width": 640
+      },
+      {
+        "category": "vehicle",
+        "classId": 1,
+        "classLabel": "car",
+        "confidence": 0.875,
+        "height": 28.187,
+        "id": 451,
+        "orientation": 0,
+        "width": 32.833,
+        "x": 243.609,
+        "y": 95.155,
+        "source_height": 360,
+        "source_width": 640
+      }
+    ],
+    "seconds": 0,
+    "source_height": 360,
+    "source_id": "643a675f-c151-11ee-931f-0242ac110007",
+    "source_width": 640,
+    "system_timestamp": 1706826581433757000,
+    "timestamp": 0,
+    "count": 1
+  },
+  {
+    "objects": [
+      {
+        "category": "person",
+        "classId": 0,
+        "classLabel": "person",
+        "confidence": 0.838,
+        "height": 39.993,
+        "id": 448,
+        "orientation": 0,
+        "width": 17.009,
+        "x": 499.465,
+        "y": 87.387,
+        "source_height": 360,
+        "source_width": 640
+      },
+      {
+        "category": "vehicle",
+        "classId": 0,
+        "classLabel": "bicycle",
+        "confidence": 0.858,
+        "height": 53.328,
+        "id": 452,
+        "orientation": 0,
+        "width": 71.963,
+        "x": 36.488,
+        "y": 303.908,
+        "source_height": 360,
+        "source_width": 640
+      },
+      {
+        "category": "person",
+        "classId": 0,
+        "classLabel": "person",
+        "confidence": 0.913,
+        "height": 55.542,
+        "id": 447,
+        "orientation": 0,
+        "width": 19.96,
+        "x": 249.284,
+        "y": 270.76,
+        "source_height": 360,
+        "source_width": 640
+      },
+      {
+        "category": "vehicle",
+        "classId": 1,
+        "classLabel": "car",
+        "confidence": 0.875,
+        "height": 28.187,
+        "id": 451,
+        "orientation": 0,
+        "width": 32.833,
+        "x": 243.609,
+        "y": 95.155,
+        "source_height": 360,
+        "source_width": 640
+      }
+    ],
+    "seconds": 0,
+    "source_height": 360,
+    "source_id": "643a675f-c151-11ee-931f-0242ac110007",
+    "source_width": 640,
+    "system_timestamp": 1706826581433757000,
+    "timestamp": 0,
+    "count": 1
+  }
+]

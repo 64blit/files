@@ -1,0 +1,80 @@
+[
+  {
+    "objects": [
+      {
+        "category": "person",
+        "classId": 0,
+        "classLabel": "person",
+        "confidence": 0.91,
+        "height": 324.01,
+        "id": 1737,
+        "orientation": 0,
+        "width": 168.126,
+        "x": 422.495,
+        "y": 219.615,
+        "source_height": 720,
+        "source_width": 1280
+      },
+      {
+        "category": "device",
+        "classId": 4,
+        "classLabel": "cell phone",
+        "confidence": 0.833,
+        "height": 49.866,
+        "id": 1739,
+        "orientation": 0,
+        "width": 46.949,
+        "x": 541.255,
+        "y": 293.32,
+        "source_height": 720,
+        "source_width": 1280
+      }
+    ],
+    "seconds": 0,
+    "source_height": 720,
+    "source_id": "d6b6e5d6-c155-11ee-931f-0242ac110007",
+    "source_width": 1280,
+    "system_timestamp": 1706828491516697000,
+    "timestamp": 0,
+    "count": 1
+  },
+  {
+    "objects": [
+      {
+        "category": "person",
+        "classId": 0,
+        "classLabel": "person",
+        "confidence": 0.91,
+        "height": 324.01,
+        "id": 1737,
+        "orientation": 0,
+        "width": 168.126,
+        "x": 422.495,
+        "y": 219.615,
+        "source_height": 720,
+        "source_width": 1280
+      },
+      {
+        "category": "device",
+        "classId": 4,
+        "classLabel": "cell phone",
+        "confidence": 0.833,
+        "height": 49.866,
+        "id": 1739,
+        "orientation": 0,
+        "width": 46.949,
+        "x": 541.255,
+        "y": 293.32,
+        "source_height": 720,
+        "source_width": 1280
+      }
+    ],
+    "seconds": 0,
+    "source_height": 720,
+    "source_id": "d6b6e5d6-c155-11ee-931f-0242ac110007",
+    "source_width": 1280,
+    "system_timestamp": 1706828491516697000,
+    "timestamp": 0,
+    "count": 1
+  }
+]

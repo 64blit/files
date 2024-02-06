@@ -1,0 +1,80 @@
+[
+  {
+    "objects": [
+      {
+        "category": "person",
+        "classId": 0,
+        "classLabel": "person",
+        "confidence": 0.849,
+        "height": 173.886,
+        "id": 1308,
+        "orientation": 0,
+        "width": 70.969,
+        "x": 183.623,
+        "y": 412.236,
+        "source_height": 720,
+        "source_width": 1280
+      },
+      {
+        "category": "animal",
+        "classId": 5,
+        "classLabel": "cow",
+        "confidence": 0.883,
+        "height": 166.782,
+        "id": 1310,
+        "orientation": 0,
+        "width": 73.974,
+        "x": 182.132,
+        "y": 424.785,
+        "source_height": 720,
+        "source_width": 1280
+      }
+    ],
+    "seconds": 0,
+    "source_height": 720,
+    "source_id": "7334d45f-c153-11ee-931f-0242ac110007",
+    "source_width": 1280,
+    "system_timestamp": 1706827465584367000,
+    "timestamp": 0,
+    "count": 1
+  },
+  {
+    "objects": [
+      {
+        "category": "person",
+        "classId": 0,
+        "classLabel": "person",
+        "confidence": 0.849,
+        "height": 173.886,
+        "id": 1308,
+        "orientation": 0,
+        "width": 70.969,
+        "x": 183.623,
+        "y": 412.236,
+        "source_height": 720,
+        "source_width": 1280
+      },
+      {
+        "category": "animal",
+        "classId": 5,
+        "classLabel": "cow",
+        "confidence": 0.883,
+        "height": 166.782,
+        "id": 1310,
+        "orientation": 0,
+        "width": 73.974,
+        "x": 182.132,
+        "y": 424.785,
+        "source_height": 720,
+        "source_width": 1280
+      }
+    ],
+    "seconds": 0,
+    "source_height": 720,
+    "source_id": "7334d45f-c153-11ee-931f-0242ac110007",
+    "source_width": 1280,
+    "system_timestamp": 1706827465584367000,
+    "timestamp": 0,
+    "count": 1
+  }
+]

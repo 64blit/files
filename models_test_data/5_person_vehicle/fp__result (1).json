@@ -1,0 +1,52 @@
+[
+  {
+    "objects": [
+      {
+        "category": "vehicle",
+        "classId": 2,
+        "classLabel": "motorcycle",
+        "confidence": 0.943,
+        "height": 266.19,
+        "id": 119,
+        "orientation": 0,
+        "width": 622.246,
+        "x": 17.753,
+        "y": 6.119,
+        "source_height": 360,
+        "source_width": 640
+      }
+    ],
+    "seconds": 0,
+    "source_height": 360,
+    "source_id": "83e17678-c150-11ee-931f-0242ac110007",
+    "source_width": 640,
+    "system_timestamp": 1706826205021265000,
+    "timestamp": 0,
+    "count": 1
+  },
+  {
+    "objects": [
+      {
+        "category": "vehicle",
+        "classId": 2,
+        "classLabel": "motorcycle",
+        "confidence": 0.943,
+        "height": 266.19,
+        "id": 119,
+        "orientation": 0,
+        "width": 622.246,
+        "x": 17.753,
+        "y": 6.119,
+        "source_height": 360,
+        "source_width": 640
+      }
+    ],
+    "seconds": 0,
+    "source_height": 360,
+    "source_id": "83e17678-c150-11ee-931f-0242ac110007",
+    "source_width": 640,
+    "system_timestamp": 1706826205021265000,
+    "timestamp": 0,
+    "count": 1
+  }
+]

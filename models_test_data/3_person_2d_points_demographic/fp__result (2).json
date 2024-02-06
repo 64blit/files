@@ -1,0 +1,52 @@
+[
+  {
+    "objects": [
+      {
+        "category": "person",
+        "classId": 0,
+        "classLabel": "person",
+        "confidence": 0.868,
+        "height": 202.713,
+        "id": 11585,
+        "orientation": 0,
+        "width": 76.455,
+        "x": 1134.363,
+        "y": 343.548,
+        "source_height": 720,
+        "source_width": 1280
+      }
+    ],
+    "seconds": 0,
+    "source_height": 720,
+    "source_id": "1efa91e5-c15e-11ee-931f-0242ac110007",
+    "source_width": 1280,
+    "system_timestamp": 1706832048715992000,
+    "timestamp": 0,
+    "count": 1
+  },
+  {
+    "objects": [
+      {
+        "category": "person",
+        "classId": 0,
+        "classLabel": "person",
+        "confidence": 0.868,
+        "height": 202.713,
+        "id": 11585,
+        "orientation": 0,
+        "width": 76.455,
+        "x": 1134.363,
+        "y": 343.548,
+        "source_height": 720,
+        "source_width": 1280
+      }
+    ],
+    "seconds": 0,
+    "source_height": 720,
+    "source_id": "1efa91e5-c15e-11ee-931f-0242ac110007",
+    "source_width": 1280,
+    "system_timestamp": 1706832048715992000,
+    "timestamp": 0,
+    "count": 1
+  }
+]

@@ -1,0 +1,136 @@
+[
+  {
+    "objects": [
+      {
+        "category": "person",
+        "classId": 0,
+        "classLabel": "person",
+        "confidence": 0.93,
+        "height": 434.719,
+        "id": 2450,
+        "orientation": 0,
+        "width": 145.99,
+        "x": 777.905,
+        "y": 196.574,
+        "source_height": 720,
+        "source_width": 1280
+      },
+      {
+        "category": "sports",
+        "classId": 9,
+        "classLabel": "tennis racket",
+        "confidence": 0.856,
+        "height": 42.351,
+        "id": 2454,
+        "orientation": 0,
+        "width": 36.843,
+        "x": 482.294,
+        "y": 303.115,
+        "source_height": 720,
+        "source_width": 1280
+      },
+      {
+        "category": "person",
+        "classId": 0,
+        "classLabel": "person",
+        "confidence": 0.965,
+        "height": 382.318,
+        "id": 2449,
+        "orientation": 0,
+        "width": 134.144,
+        "x": 408.919,
+        "y": 195.043,
+        "source_height": 720,
+        "source_width": 1280
+      },
+      {
+        "category": "sports",
+        "classId": 9,
+        "classLabel": "tennis racket",
+        "confidence": 0.872,
+        "height": 134.615,
+        "id": 2453,
+        "orientation": 0,
+        "width": 40.194,
+        "x": 903.085,
+        "y": 114.589,
+        "source_height": 720,
+        "source_width": 1280
+      }
+    ],
+    "seconds": 0,
+    "source_height": 720,
+    "source_id": "81f166d2-c157-11ee-931f-0242ac110007",
+    "source_width": 1280,
+    "system_timestamp": 1706829208262336000,
+    "timestamp": 0,
+    "count": 1
+  },
+  {
+    "objects": [
+      {
+        "category": "person",
+        "classId": 0,
+        "classLabel": "person",
+        "confidence": 0.93,
+        "height": 434.719,
+        "id": 2450,
+        "orientation": 0,
+        "width": 145.99,
+        "x": 777.905,
+        "y": 196.574,
+        "source_height": 720,
+        "source_width": 1280
+      },
+      {
+        "category": "sports",
+        "classId": 9,
+        "classLabel": "tennis racket",
+        "confidence": 0.856,
+        "height": 42.351,
+        "id": 2454,
+        "orientation": 0,
+        "width": 36.843,
+        "x": 482.294,
+        "y": 303.115,
+        "source_height": 720,
+        "source_width": 1280
+      },
+      {
+        "category": "person",
+        "classId": 0,
+        "classLabel": "person",
+        "confidence": 0.965,
+        "height": 382.318,
+        "id": 2449,
+        "orientation": 0,
+        "width": 134.144,
+        "x": 408.919,
+        "y": 195.043,
+        "source_height": 720,
+        "source_width": 1280
+      },
+      {
+        "category": "sports",
+        "classId": 9,
+        "classLabel": "tennis racket",
+        "confidence": 0.872,
+        "height": 134.615,
+        "id": 2453,
+        "orientation": 0,
+        "width": 40.194,
+        "x": 903.085,
+        "y": 114.589,
+        "source_height": 720,
+        "source_width": 1280
+      }
+    ],
+    "seconds": 0,
+    "source_height": 720,
+    "source_id": "81f166d2-c157-11ee-931f-0242ac110007",
+    "source_width": 1280,
+    "system_timestamp": 1706829208262336000,
+    "timestamp": 0,
+    "count": 1
+  }
+]

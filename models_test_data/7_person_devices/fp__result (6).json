@@ -1,0 +1,80 @@
+[
+  {
+    "objects": [
+      {
+        "category": "person",
+        "classId": 0,
+        "classLabel": "person",
+        "confidence": 0.952,
+        "height": 336.351,
+        "id": 1742,
+        "orientation": 0,
+        "width": 315.888,
+        "x": 266.271,
+        "y": 19.679,
+        "source_height": 360,
+        "source_width": 640
+      },
+      {
+        "category": "device",
+        "classId": 6,
+        "classLabel": "scissors",
+        "confidence": 0.812,
+        "height": 241.079,
+        "id": 1744,
+        "orientation": 0,
+        "width": 343.321,
+        "x": 226.278,
+        "y": 10.918,
+        "source_height": 360,
+        "source_width": 640
+      }
+    ],
+    "seconds": 0,
+    "source_height": 360,
+    "source_id": "e6f6bda2-c155-11ee-931f-0242ac110007",
+    "source_width": 640,
+    "system_timestamp": 1706828518732603000,
+    "timestamp": 0,
+    "count": 1
+  },
+  {
+    "objects": [
+      {
+        "category": "person",
+        "classId": 0,
+        "classLabel": "person",
+        "confidence": 0.952,
+        "height": 336.351,
+        "id": 1742,
+        "orientation": 0,
+        "width": 315.888,
+        "x": 266.271,
+        "y": 19.679,
+        "source_height": 360,
+        "source_width": 640
+      },
+      {
+        "category": "device",
+        "classId": 6,
+        "classLabel": "scissors",
+        "confidence": 0.812,
+        "height": 241.079,
+        "id": 1744,
+        "orientation": 0,
+        "width": 343.321,
+        "x": 226.278,
+        "y": 10.918,
+        "source_height": 360,
+        "source_width": 640
+      }
+    ],
+    "seconds": 0,
+    "source_height": 360,
+    "source_id": "e6f6bda2-c155-11ee-931f-0242ac110007",
+    "source_width": 640,
+    "system_timestamp": 1706828518732603000,
+    "timestamp": 0,
+    "count": 1
+  }
+]

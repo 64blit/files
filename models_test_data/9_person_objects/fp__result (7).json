@@ -1,0 +1,136 @@
+[
+  {
+    "objects": [
+      {
+        "category": "common-objects",
+        "classId": 13,
+        "classLabel": "parking meter",
+        "confidence": 0.864,
+        "height": 585.6,
+        "id": 4116,
+        "orientation": 0,
+        "width": 163.163,
+        "x": 0,
+        "y": 148.336,
+        "source_height": 767,
+        "source_width": 573
+      },
+      {
+        "category": "common-objects",
+        "classId": 3,
+        "classLabel": "car",
+        "confidence": 0.927,
+        "height": 139.03,
+        "id": 4115,
+        "orientation": 0,
+        "width": 164.653,
+        "x": 407.738,
+        "y": 0,
+        "source_height": 767,
+        "source_width": 573
+      },
+      {
+        "category": "common-objects",
+        "classId": 3,
+        "classLabel": "car",
+        "confidence": 0.838,
+        "height": 142.812,
+        "id": 4117,
+        "orientation": 0,
+        "width": 377.939,
+        "x": 0,
+        "y": 0,
+        "source_height": 767,
+        "source_width": 573
+      },
+      {
+        "category": "common-objects",
+        "classId": 13,
+        "classLabel": "parking meter",
+        "confidence": 0.954,
+        "height": 595.734,
+        "id": 4114,
+        "orientation": 0,
+        "width": 369.189,
+        "x": 126.641,
+        "y": 70.731,
+        "source_height": 767,
+        "source_width": 573
+      }
+    ],
+    "seconds": 0,
+    "source_height": 767,
+    "source_id": "eeec2496-c159-11ee-931f-0242ac110007",
+    "source_width": 573,
+    "system_timestamp": 1706830250051132000,
+    "timestamp": 0,
+    "count": 1
+  },
+  {
+    "objects": [
+      {
+        "category": "common-objects",
+        "classId": 13,
+        "classLabel": "parking meter",
+        "confidence": 0.864,
+        "height": 585.6,
+        "id": 4116,
+        "orientation": 0,
+        "width": 163.163,
+        "x": 0,
+        "y": 148.336,
+        "source_height": 767,
+        "source_width": 573
+      },
+      {
+        "category": "common-objects",
+        "classId": 3,
+        "classLabel": "car",
+        "confidence": 0.927,
+        "height": 139.03,
+        "id": 4115,
+        "orientation": 0,
+        "width": 164.653,
+        "x": 407.738,
+        "y": 0,
+        "source_height": 767,
+        "source_width": 573
+      },
+      {
+        "category": "common-objects",
+        "classId": 3,
+        "classLabel": "car",
+        "confidence": 0.838,
+        "height": 142.812,
+        "id": 4117,
+        "orientation": 0,
+        "width": 377.939,
+        "x": 0,
+        "y": 0,
+        "source_height": 767,
+        "source_width": 573
+      },
+      {
+        "category": "common-objects",
+        "classId": 13,
+        "classLabel": "parking meter",
+        "confidence": 0.954,
+        "height": 595.734,
+        "id": 4114,
+        "orientation": 0,
+        "width": 369.189,
+        "x": 126.641,
+        "y": 70.731,
+        "source_height": 767,
+        "source_width": 573
+      }
+    ],
+    "seconds": 0,
+    "source_height": 767,
+    "source_id": "eeec2496-c159-11ee-931f-0242ac110007",
+    "source_width": 573,
+    "system_timestamp": 1706830250051132000,
+    "timestamp": 0,
+    "count": 1
+  }
+]

@@ -1,0 +1,136 @@
+[
+  {
+    "objects": [
+      {
+        "category": "person",
+        "classId": 0,
+        "classLabel": "person",
+        "confidence": 0.829,
+        "height": 110.739,
+        "id": 8297,
+        "keyPoints": [
+          {
+            "category": "2d-body-points",
+            "confidence": 0.542,
+            "id": 8303,
+            "points": [
+              {
+                "classId": 1,
+                "classLabel": "left eye",
+                "confidence": 0.542,
+                "id": 8299,
+                "x": 1059.494,
+                "y": 443.317
+              },
+              {
+                "classId": 5,
+                "classLabel": "left shoulder",
+                "confidence": 0.514,
+                "id": 8300,
+                "x": 1047.479,
+                "y": 460.527
+              },
+              {
+                "classId": 11,
+                "classLabel": "left hip",
+                "confidence": 0.6,
+                "id": 8301,
+                "x": 1064.589,
+                "y": 488.863
+              },
+              {
+                "classId": 16,
+                "classLabel": "right ankle",
+                "confidence": 0.59,
+                "id": 8302,
+                "x": 1061.711,
+                "y": 522.869
+              }
+            ],
+            "type": "body-coco-17"
+          }
+        ],
+        "orientation": 0,
+        "width": 74.785,
+        "x": 1037.607,
+        "y": 423.425,
+        "source_height": 720,
+        "source_width": 1280
+      }
+    ],
+    "seconds": 0,
+    "source_height": 720,
+    "source_id": "872bcb9a-c15c-11ee-931f-0242ac110007",
+    "source_width": 1280,
+    "system_timestamp": 1706831364515519000,
+    "timestamp": 0,
+    "count": 1
+  },
+  {
+    "objects": [
+      {
+        "category": "person",
+        "classId": 0,
+        "classLabel": "person",
+        "confidence": 0.829,
+        "height": 110.739,
+        "id": 8297,
+        "keyPoints": [
+          {
+            "category": "2d-body-points",
+            "confidence": 0.542,
+            "id": 8303,
+            "points": [
+              {
+                "classId": 1,
+                "classLabel": "left eye",
+                "confidence": 0.542,
+                "id": 8299,
+                "x": 1059.494,
+                "y": 443.317
+              },
+              {
+                "classId": 5,
+                "classLabel": "left shoulder",
+                "confidence": 0.514,
+                "id": 8300,
+                "x": 1047.479,
+                "y": 460.527
+              },
+              {
+                "classId": 11,
+                "classLabel": "left hip",
+                "confidence": 0.6,
+                "id": 8301,
+                "x": 1064.589,
+                "y": 488.863
+              },
+              {
+                "classId": 16,
+                "classLabel": "right ankle",
+                "confidence": 0.59,
+                "id": 8302,
+                "x": 1061.711,
+                "y": 522.869
+              }
+            ],
+            "type": "body-coco-17"
+          }
+        ],
+        "orientation": 0,
+        "width": 74.785,
+        "x": 1037.607,
+        "y": 423.425,
+        "source_height": 720,
+        "source_width": 1280
+      }
+    ],
+    "seconds": 0,
+    "source_height": 720,
+    "source_id": "872bcb9a-c15c-11ee-931f-0242ac110007",
+    "source_width": 1280,
+    "system_timestamp": 1706831364515519000,
+    "timestamp": 0,
+    "count": 1
+  }
+]

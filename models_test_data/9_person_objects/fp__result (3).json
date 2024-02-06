@@ -1,0 +1,80 @@
+[
+  {
+    "objects": [
+      {
+        "category": "common-objects",
+        "classId": 0,
+        "classLabel": "eyepop logo",
+        "confidence": 0.926,
+        "height": 224.478,
+        "id": 3532,
+        "orientation": 0,
+        "width": 152.315,
+        "x": 652.884,
+        "y": 412.91,
+        "source_height": 720,
+        "source_width": 1280
+      },
+      {
+        "category": "common-objects",
+        "classId": 1,
+        "classLabel": "person",
+        "confidence": 0.871,
+        "height": 427.992,
+        "id": 3533,
+        "orientation": 0,
+        "width": 165.993,
+        "x": 744.434,
+        "y": 232.487,
+        "source_height": 720,
+        "source_width": 1280
+      }
+    ],
+    "seconds": 0,
+    "source_height": 720,
+    "source_id": "42d31498-c159-11ee-931f-0242ac110007",
+    "source_width": 1280,
+    "system_timestamp": 1706829961335740000,
+    "timestamp": 0,
+    "count": 1
+  },
+  {
+    "objects": [
+      {
+        "category": "common-objects",
+        "classId": 0,
+        "classLabel": "eyepop logo",
+        "confidence": 0.926,
+        "height": 224.478,
+        "id": 3532,
+        "orientation": 0,
+        "width": 152.315,
+        "x": 652.884,
+        "y": 412.91,
+        "source_height": 720,
+        "source_width": 1280
+      },
+      {
+        "category": "common-objects",
+        "classId": 1,
+        "classLabel": "person",
+        "confidence": 0.871,
+        "height": 427.992,
+        "id": 3533,
+        "orientation": 0,
+        "width": 165.993,
+        "x": 744.434,
+        "y": 232.487,
+        "source_height": 720,
+        "source_width": 1280
+      }
+    ],
+    "seconds": 0,
+    "source_height": 720,
+    "source_id": "42d31498-c159-11ee-931f-0242ac110007",
+    "source_width": 1280,
+    "system_timestamp": 1706829961335740000,
+    "timestamp": 0,
+    "count": 1
+  }
+]

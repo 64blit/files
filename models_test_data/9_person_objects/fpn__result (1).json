@@ -1,0 +1,108 @@
+[
+  {
+    "objects": [
+      {
+        "category": "common-objects",
+        "classId": 1,
+        "classLabel": "person",
+        "confidence": 0.823,
+        "height": 93.862,
+        "id": 3290,
+        "orientation": 0,
+        "width": 140.065,
+        "x": 116.373,
+        "y": 241.621,
+        "source_height": 405,
+        "source_width": 720
+      },
+      {
+        "category": "common-objects",
+        "classId": 0,
+        "classLabel": "eyepop logo",
+        "confidence": 0.864,
+        "height": 78.423,
+        "id": 3289,
+        "orientation": 0,
+        "width": 103.675,
+        "x": 332.39,
+        "y": 177.389,
+        "source_height": 405,
+        "source_width": 720
+      },
+      {
+        "category": "common-objects",
+        "classId": 1,
+        "classLabel": "person",
+        "confidence": 0.814,
+        "height": 67.185,
+        "id": 3291,
+        "orientation": 0,
+        "width": 72.632,
+        "x": 151.073,
+        "y": 336.627,
+        "source_height": 405,
+        "source_width": 720
+      }
+    ],
+    "seconds": 0,
+    "source_height": 405,
+    "source_id": "f4b88cc0-c158-11ee-931f-0242ac110007",
+    "source_width": 720,
+    "system_timestamp": 1706829830307360000,
+    "timestamp": 0,
+    "count": 1
+  },
+  {
+    "objects": [
+      {
+        "category": "common-objects",
+        "classId": 1,
+        "classLabel": "person",
+        "confidence": 0.823,
+        "height": 93.862,
+        "id": 3290,
+        "orientation": 0,
+        "width": 140.065,
+        "x": 116.373,
+        "y": 241.621,
+        "source_height": 405,
+        "source_width": 720
+      },
+      {
+        "category": "common-objects",
+        "classId": 0,
+        "classLabel": "eyepop logo",
+        "confidence": 0.864,
+        "height": 78.423,
+        "id": 3289,
+        "orientation": 0,
+        "width": 103.675,
+        "x": 332.39,
+        "y": 177.389,
+        "source_height": 405,
+        "source_width": 720
+      },
+      {
+        "category": "common-objects",
+        "classId": 1,
+        "classLabel": "person",
+        "confidence": 0.814,
+        "height": 67.185,
+        "id": 3291,
+        "orientation": 0,
+        "width": 72.632,
+        "x": 151.073,
+        "y": 336.627,
+        "source_height": 405,
+        "source_width": 720
+      }
+    ],
+    "seconds": 0,
+    "source_height": 405,
+    "source_id": "f4b88cc0-c158-11ee-931f-0242ac110007",
+    "source_width": 720,
+    "system_timestamp": 1706829830307360000,
+    "timestamp": 0,
+    "count": 1
+  }
+]

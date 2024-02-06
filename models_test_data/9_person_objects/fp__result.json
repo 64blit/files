@@ -1,0 +1,108 @@
+[
+  {
+    "objects": [
+      {
+        "category": "common-objects",
+        "classId": 37,
+        "classLabel": "tv",
+        "confidence": 0.83,
+        "height": 870.096,
+        "id": 3206,
+        "orientation": 0,
+        "width": 1206.179,
+        "x": 1741.402,
+        "y": 156.869,
+        "source_height": 3024,
+        "source_width": 4032
+      },
+      {
+        "category": "common-objects",
+        "classId": 31,
+        "classLabel": "chair",
+        "confidence": 0.834,
+        "height": 562.273,
+        "id": 3205,
+        "orientation": 0,
+        "width": 730.474,
+        "x": 3293.993,
+        "y": 2461.726,
+        "source_height": 3024,
+        "source_width": 4032
+      },
+      {
+        "category": "common-objects",
+        "classId": 31,
+        "classLabel": "chair",
+        "confidence": 0.885,
+        "height": 1267.723,
+        "id": 3204,
+        "orientation": 0,
+        "width": 1365.921,
+        "x": 179.393,
+        "y": 1631.703,
+        "source_height": 3024,
+        "source_width": 4032
+      }
+    ],
+    "seconds": 0,
+    "source_height": 3024,
+    "source_id": "c2f6fb74-c158-11ee-931f-0242ac110007",
+    "source_width": 4032,
+    "system_timestamp": 1706829746899394000,
+    "timestamp": 0,
+    "count": 1
+  },
+  {
+    "objects": [
+      {
+        "category": "common-objects",
+        "classId": 37,
+        "classLabel": "tv",
+        "confidence": 0.83,
+        "height": 870.096,
+        "id": 3206,
+        "orientation": 0,
+        "width": 1206.179,
+        "x": 1741.402,
+        "y": 156.869,
+        "source_height": 3024,
+        "source_width": 4032
+      },
+      {
+        "category": "common-objects",
+        "classId": 31,
+        "classLabel": "chair",
+        "confidence": 0.834,
+        "height": 562.273,
+        "id": 3205,
+        "orientation": 0,
+        "width": 730.474,
+        "x": 3293.993,
+        "y": 2461.726,
+        "source_height": 3024,
+        "source_width": 4032
+      },
+      {
+        "category": "common-objects",
+        "classId": 31,
+        "classLabel": "chair",
+        "confidence": 0.885,
+        "height": 1267.723,
+        "id": 3204,
+        "orientation": 0,
+        "width": 1365.921,
+        "x": 179.393,
+        "y": 1631.703,
+        "source_height": 3024,
+        "source_width": 4032
+      }
+    ],
+    "seconds": 0,
+    "source_height": 3024,
+    "source_id": "c2f6fb74-c158-11ee-931f-0242ac110007",
+    "source_width": 4032,
+    "system_timestamp": 1706829746899394000,
+    "timestamp": 0,
+    "count": 1
+  }
+]

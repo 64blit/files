@@ -1,0 +1,108 @@
+[
+  {
+    "objects": [
+      {
+        "category": "common-objects",
+        "classId": 13,
+        "classLabel": "parking meter",
+        "confidence": 0.949,
+        "height": 691.807,
+        "id": 4111,
+        "orientation": 0,
+        "width": 291.059,
+        "x": 265.902,
+        "y": 61.428,
+        "source_height": 768,
+        "source_width": 576
+      },
+      {
+        "category": "common-objects",
+        "classId": 3,
+        "classLabel": "car",
+        "confidence": 0.82,
+        "height": 147.982,
+        "id": 4113,
+        "orientation": 0,
+        "width": 63.113,
+        "x": 512.886,
+        "y": 141.884,
+        "source_height": 768,
+        "source_width": 576
+      },
+      {
+        "category": "common-objects",
+        "classId": 11,
+        "classLabel": "fire hydrant",
+        "confidence": 0.882,
+        "height": 389.328,
+        "id": 4112,
+        "orientation": 0,
+        "width": 134.1,
+        "x": 55.848,
+        "y": 85.494,
+        "source_height": 768,
+        "source_width": 576
+      }
+    ],
+    "seconds": 0,
+    "source_height": 768,
+    "source_id": "e8347570-c159-11ee-931f-0242ac110007",
+    "source_width": 576,
+    "system_timestamp": 1706830238767950000,
+    "timestamp": 0,
+    "count": 1
+  },
+  {
+    "objects": [
+      {
+        "category": "common-objects",
+        "classId": 13,
+        "classLabel": "parking meter",
+        "confidence": 0.949,
+        "height": 691.807,
+        "id": 4111,
+        "orientation": 0,
+        "width": 291.059,
+        "x": 265.902,
+        "y": 61.428,
+        "source_height": 768,
+        "source_width": 576
+      },
+      {
+        "category": "common-objects",
+        "classId": 3,
+        "classLabel": "car",
+        "confidence": 0.82,
+        "height": 147.982,
+        "id": 4113,
+        "orientation": 0,
+        "width": 63.113,
+        "x": 512.886,
+        "y": 141.884,
+        "source_height": 768,
+        "source_width": 576
+      },
+      {
+        "category": "common-objects",
+        "classId": 11,
+        "classLabel": "fire hydrant",
+        "confidence": 0.882,
+        "height": 389.328,
+        "id": 4112,
+        "orientation": 0,
+        "width": 134.1,
+        "x": 55.848,
+        "y": 85.494,
+        "source_height": 768,
+        "source_width": 576
+      }
+    ],
+    "seconds": 0,
+    "source_height": 768,
+    "source_id": "e8347570-c159-11ee-931f-0242ac110007",
+    "source_width": 576,
+    "system_timestamp": 1706830238767950000,
+    "timestamp": 0,
+    "count": 1
+  }
+]

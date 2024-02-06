@@ -1,0 +1,136 @@
+[
+  {
+    "objects": [
+      {
+        "category": "person",
+        "classId": 0,
+        "classLabel": "person",
+        "confidence": 0.956,
+        "height": 137.07,
+        "id": 1316,
+        "orientation": 0,
+        "width": 126.421,
+        "x": 434.853,
+        "y": 401.519,
+        "source_height": 540,
+        "source_width": 960
+      },
+      {
+        "category": "person",
+        "classId": 0,
+        "classLabel": "person",
+        "confidence": 0.914,
+        "height": 190.025,
+        "id": 1318,
+        "orientation": 0,
+        "width": 178.696,
+        "x": 713.875,
+        "y": 348.298,
+        "source_height": 540,
+        "source_width": 960
+      },
+      {
+        "category": "animal",
+        "classId": 0,
+        "classLabel": "bird",
+        "confidence": 0.827,
+        "height": 139.962,
+        "id": 1322,
+        "orientation": 0,
+        "width": 141.498,
+        "x": 429.706,
+        "y": 400.037,
+        "source_height": 540,
+        "source_width": 960
+      },
+      {
+        "category": "person",
+        "classId": 0,
+        "classLabel": "person",
+        "confidence": 0.948,
+        "height": 198.432,
+        "id": 1317,
+        "orientation": 0,
+        "width": 148.886,
+        "x": 250.708,
+        "y": 340.736,
+        "source_height": 540,
+        "source_width": 960
+      }
+    ],
+    "seconds": 0,
+    "source_height": 540,
+    "source_id": "ae959413-c153-11ee-931f-0242ac110007",
+    "source_width": 960,
+    "system_timestamp": 1706827565177524000,
+    "timestamp": 0,
+    "count": 1
+  },
+  {
+    "objects": [
+      {
+        "category": "person",
+        "classId": 0,
+        "classLabel": "person",
+        "confidence": 0.956,
+        "height": 137.07,
+        "id": 1316,
+        "orientation": 0,
+        "width": 126.421,
+        "x": 434.853,
+        "y": 401.519,
+        "source_height": 540,
+        "source_width": 960
+      },
+      {
+        "category": "person",
+        "classId": 0,
+        "classLabel": "person",
+        "confidence": 0.914,
+        "height": 190.025,
+        "id": 1318,
+        "orientation": 0,
+        "width": 178.696,
+        "x": 713.875,
+        "y": 348.298,
+        "source_height": 540,
+        "source_width": 960
+      },
+      {
+        "category": "animal",
+        "classId": 0,
+        "classLabel": "bird",
+        "confidence": 0.827,
+        "height": 139.962,
+        "id": 1322,
+        "orientation": 0,
+        "width": 141.498,
+        "x": 429.706,
+        "y": 400.037,
+        "source_height": 540,
+        "source_width": 960
+      },
+      {
+        "category": "person",
+        "classId": 0,
+        "classLabel": "person",
+        "confidence": 0.948,
+        "height": 198.432,
+        "id": 1317,
+        "orientation": 0,
+        "width": 148.886,
+        "x": 250.708,
+        "y": 340.736,
+        "source_height": 540,
+        "source_width": 960
+      }
+    ],
+    "seconds": 0,
+    "source_height": 540,
+    "source_id": "ae959413-c153-11ee-931f-0242ac110007",
+    "source_width": 960,
+    "system_timestamp": 1706827565177524000,
+    "timestamp": 0,
+    "count": 1
+  }
+]

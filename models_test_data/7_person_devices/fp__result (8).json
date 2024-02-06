@@ -1,0 +1,80 @@
+[
+  {
+    "objects": [
+      {
+        "category": "device",
+        "classId": 5,
+        "classLabel": "clock",
+        "confidence": 0.926,
+        "height": 64.759,
+        "id": 1873,
+        "orientation": 0,
+        "width": 54.731,
+        "x": 286.295,
+        "y": 354.106,
+        "source_height": 1048,
+        "source_width": 590
+      },
+      {
+        "category": "device",
+        "classId": 5,
+        "classLabel": "clock",
+        "confidence": 0.921,
+        "height": 64.714,
+        "id": 1874,
+        "orientation": 0,
+        "width": 59.266,
+        "x": 349.353,
+        "y": 342.837,
+        "source_height": 1048,
+        "source_width": 590
+      }
+    ],
+    "seconds": 0,
+    "source_height": 1048,
+    "source_id": "6d796b5a-c156-11ee-931f-0242ac110007",
+    "source_width": 590,
+    "system_timestamp": 1706828744399953000,
+    "timestamp": 0,
+    "count": 1
+  },
+  {
+    "objects": [
+      {
+        "category": "device",
+        "classId": 5,
+        "classLabel": "clock",
+        "confidence": 0.926,
+        "height": 64.759,
+        "id": 1873,
+        "orientation": 0,
+        "width": 54.731,
+        "x": 286.295,
+        "y": 354.106,
+        "source_height": 1048,
+        "source_width": 590
+      },
+      {
+        "category": "device",
+        "classId": 5,
+        "classLabel": "clock",
+        "confidence": 0.921,
+        "height": 64.714,
+        "id": 1874,
+        "orientation": 0,
+        "width": 59.266,
+        "x": 349.353,
+        "y": 342.837,
+        "source_height": 1048,
+        "source_width": 590
+      }
+    ],
+    "seconds": 0,
+    "source_height": 1048,
+    "source_id": "6d796b5a-c156-11ee-931f-0242ac110007",
+    "source_width": 590,
+    "system_timestamp": 1706828744399953000,
+    "timestamp": 0,
+    "count": 1
+  }
+]

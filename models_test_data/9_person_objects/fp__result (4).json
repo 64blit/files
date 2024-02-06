@@ -1,0 +1,108 @@
+[
+  {
+    "objects": [
+      {
+        "category": "common-objects",
+        "classId": 45,
+        "classLabel": "book",
+        "confidence": 0.813,
+        "height": 77.781,
+        "id": 4106,
+        "orientation": 0,
+        "width": 252.849,
+        "x": 139.536,
+        "y": 294.681,
+        "source_height": 1024,
+        "source_width": 1024
+      },
+      {
+        "category": "common-objects",
+        "classId": 45,
+        "classLabel": "book",
+        "confidence": 0.829,
+        "height": 180.528,
+        "id": 4105,
+        "orientation": 0,
+        "width": 154.798,
+        "x": 0,
+        "y": 440.872,
+        "source_height": 1024,
+        "source_width": 1024
+      },
+      {
+        "category": "common-objects",
+        "classId": 45,
+        "classLabel": "book",
+        "confidence": 0.811,
+        "height": 133.414,
+        "id": 4107,
+        "orientation": 0,
+        "width": 296.546,
+        "x": 120.873,
+        "y": 324.1,
+        "source_height": 1024,
+        "source_width": 1024
+      }
+    ],
+    "seconds": 0,
+    "source_height": 1024,
+    "source_id": "daa466e3-c159-11ee-931f-0242ac110007",
+    "source_width": 1024,
+    "system_timestamp": 1706830216035731000,
+    "timestamp": 0,
+    "count": 1
+  },
+  {
+    "objects": [
+      {
+        "category": "common-objects",
+        "classId": 45,
+        "classLabel": "book",
+        "confidence": 0.813,
+        "height": 77.781,
+        "id": 4106,
+        "orientation": 0,
+        "width": 252.849,
+        "x": 139.536,
+        "y": 294.681,
+        "source_height": 1024,
+        "source_width": 1024
+      },
+      {
+        "category": "common-objects",
+        "classId": 45,
+        "classLabel": "book",
+        "confidence": 0.829,
+        "height": 180.528,
+        "id": 4105,
+        "orientation": 0,
+        "width": 154.798,
+        "x": 0,
+        "y": 440.872,
+        "source_height": 1024,
+        "source_width": 1024
+      },
+      {
+        "category": "common-objects",
+        "classId": 45,
+        "classLabel": "book",
+        "confidence": 0.811,
+        "height": 133.414,
+        "id": 4107,
+        "orientation": 0,
+        "width": 296.546,
+        "x": 120.873,
+        "y": 324.1,
+        "source_height": 1024,
+        "source_width": 1024
+      }
+    ],
+    "seconds": 0,
+    "source_height": 1024,
+    "source_id": "daa466e3-c159-11ee-931f-0242ac110007",
+    "source_width": 1024,
+    "system_timestamp": 1706830216035731000,
+    "timestamp": 0,
+    "count": 1
+  }
+]

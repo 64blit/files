@@ -1,0 +1,16 @@
+[
+  {
+    "event": {
+      "message": "This file contains no playable streams. (../gst/isomp4/qtdemux.c(499): gst_qtdemux_post_no_playable_stream_error (): /GstPipeline:eyepop-pipeline/GstEpSourcesQueue:epsourcesqueue0/GstEpSource:epsource25/GstQTDemux:qtdemux0:\nno known streams found)",
+      "source_id": "a922cdf4-c150-11ee-931f-0242ac110007",
+      "type": "error"
+    }
+  },
+  {
+    "event": {
+      "message": "This file contains no playable streams. (../gst/isomp4/qtdemux.c(499): gst_qtdemux_post_no_playable_stream_error (): /GstPipeline:eyepop-pipeline/GstEpSourcesQueue:epsourcesqueue0/GstEpSource:epsource25/GstQTDemux:qtdemux0:\nno known streams found)",
+      "source_id": "a922cdf4-c150-11ee-931f-0242ac110007",
+      "type": "error"
+    }
+  }
+]

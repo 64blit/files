@@ -1,0 +1,80 @@
+[
+  {
+    "objects": [
+      {
+        "category": "sports",
+        "classId": 0,
+        "classLabel": "frisbee",
+        "confidence": 0.884,
+        "height": 41.672,
+        "id": 2667,
+        "orientation": 0,
+        "width": 152.147,
+        "x": 1121.517,
+        "y": 441.153,
+        "source_height": 720,
+        "source_width": 1280
+      },
+      {
+        "category": "person",
+        "classId": 0,
+        "classLabel": "person",
+        "confidence": 0.944,
+        "height": 253.206,
+        "id": 2665,
+        "orientation": 0,
+        "width": 428.404,
+        "x": 820.905,
+        "y": 449.473,
+        "source_height": 720,
+        "source_width": 1280
+      }
+    ],
+    "seconds": 0,
+    "source_height": 720,
+    "source_id": "f5079bde-c157-11ee-931f-0242ac110007",
+    "source_width": 1280,
+    "system_timestamp": 1706829401379951000,
+    "timestamp": 0,
+    "count": 1
+  },
+  {
+    "objects": [
+      {
+        "category": "sports",
+        "classId": 0,
+        "classLabel": "frisbee",
+        "confidence": 0.884,
+        "height": 41.672,
+        "id": 2667,
+        "orientation": 0,
+        "width": 152.147,
+        "x": 1121.517,
+        "y": 441.153,
+        "source_height": 720,
+        "source_width": 1280
+      },
+      {
+        "category": "person",
+        "classId": 0,
+        "classLabel": "person",
+        "confidence": 0.944,
+        "height": 253.206,
+        "id": 2665,
+        "orientation": 0,
+        "width": 428.404,
+        "x": 820.905,
+        "y": 449.473,
+        "source_height": 720,
+        "source_width": 1280
+      }
+    ],
+    "seconds": 0,
+    "source_height": 720,
+    "source_id": "f5079bde-c157-11ee-931f-0242ac110007",
+    "source_width": 1280,
+    "system_timestamp": 1706829401379951000,
+    "timestamp": 0,
+    "count": 1
+  }
+]

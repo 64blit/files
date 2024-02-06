@@ -1,0 +1,52 @@
+[
+  {
+    "objects": [
+      {
+        "category": "common-objects",
+        "classId": 36,
+        "classLabel": "toilet",
+        "confidence": 0.885,
+        "height": 763.02,
+        "id": 4108,
+        "orientation": 0,
+        "width": 288.893,
+        "x": 232.78,
+        "y": 267.638,
+        "source_height": 1048,
+        "source_width": 590
+      }
+    ],
+    "seconds": 0,
+    "source_height": 1048,
+    "source_id": "e1110fc1-c159-11ee-931f-0242ac110007",
+    "source_width": 590,
+    "system_timestamp": 1706830226787668000,
+    "timestamp": 0,
+    "count": 1
+  },
+  {
+    "objects": [
+      {
+        "category": "common-objects",
+        "classId": 36,
+        "classLabel": "toilet",
+        "confidence": 0.885,
+        "height": 763.02,
+        "id": 4108,
+        "orientation": 0,
+        "width": 288.893,
+        "x": 232.78,
+        "y": 267.638,
+        "source_height": 1048,
+        "source_width": 590
+      }
+    ],
+    "seconds": 0,
+    "source_height": 1048,
+    "source_id": "e1110fc1-c159-11ee-931f-0242ac110007",
+    "source_width": 590,
+    "system_timestamp": 1706830226787668000,
+    "timestamp": 0,
+    "count": 1
+  }
+]

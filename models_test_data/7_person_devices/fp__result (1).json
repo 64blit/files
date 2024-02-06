@@ -1,0 +1,52 @@
+[
+  {
+    "objects": [
+      {
+        "category": "device",
+        "classId": 4,
+        "classLabel": "cell phone",
+        "confidence": 0.889,
+        "height": 153.756,
+        "id": 1519,
+        "orientation": 0,
+        "width": 583.888,
+        "x": 0,
+        "y": 267.056,
+        "source_height": 853,
+        "source_width": 1280
+      }
+    ],
+    "seconds": 0,
+    "source_height": 853,
+    "source_id": "5e71eafb-c155-11ee-931f-0242ac110007",
+    "source_width": 1280,
+    "system_timestamp": 1706828289712047000,
+    "timestamp": 0,
+    "count": 1
+  },
+  {
+    "objects": [
+      {
+        "category": "device",
+        "classId": 4,
+        "classLabel": "cell phone",
+        "confidence": 0.889,
+        "height": 153.756,
+        "id": 1519,
+        "orientation": 0,
+        "width": 583.888,
+        "x": 0,
+        "y": 267.056,
+        "source_height": 853,
+        "source_width": 1280
+      }
+    ],
+    "seconds": 0,
+    "source_height": 853,
+    "source_id": "5e71eafb-c155-11ee-931f-0242ac110007",
+    "source_width": 1280,
+    "system_timestamp": 1706828289712047000,
+    "timestamp": 0,
+    "count": 1
+  }
+]

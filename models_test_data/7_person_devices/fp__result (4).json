@@ -1,0 +1,108 @@
+[
+  {
+    "objects": [
+      {
+        "category": "person",
+        "classId": 0,
+        "classLabel": "person",
+        "confidence": 0.816,
+        "height": 81.434,
+        "id": 1659,
+        "orientation": 0,
+        "width": 36.715,
+        "x": 1128.734,
+        "y": 273.123,
+        "source_height": 720,
+        "source_width": 1166
+      },
+      {
+        "category": "person",
+        "classId": 0,
+        "classLabel": "person",
+        "confidence": 0.884,
+        "height": 69.606,
+        "id": 1658,
+        "orientation": 0,
+        "width": 43.988,
+        "x": 1075.097,
+        "y": 285.902,
+        "source_height": 720,
+        "source_width": 1166
+      },
+      {
+        "category": "device",
+        "classId": 5,
+        "classLabel": "clock",
+        "confidence": 0.875,
+        "height": 120.636,
+        "id": 1662,
+        "orientation": 0,
+        "width": 191.171,
+        "x": 772.426,
+        "y": 368.768,
+        "source_height": 720,
+        "source_width": 1166
+      }
+    ],
+    "seconds": 0,
+    "source_height": 720,
+    "source_id": "b3c2c360-c155-11ee-931f-0242ac110007",
+    "source_width": 1166,
+    "system_timestamp": 1706828432867185000,
+    "timestamp": 0,
+    "count": 1
+  },
+  {
+    "objects": [
+      {
+        "category": "person",
+        "classId": 0,
+        "classLabel": "person",
+        "confidence": 0.816,
+        "height": 81.434,
+        "id": 1659,
+        "orientation": 0,
+        "width": 36.715,
+        "x": 1128.734,
+        "y": 273.123,
+        "source_height": 720,
+        "source_width": 1166
+      },
+      {
+        "category": "person",
+        "classId": 0,
+        "classLabel": "person",
+        "confidence": 0.884,
+        "height": 69.606,
+        "id": 1658,
+        "orientation": 0,
+        "width": 43.988,
+        "x": 1075.097,
+        "y": 285.902,
+        "source_height": 720,
+        "source_width": 1166
+      },
+      {
+        "category": "device",
+        "classId": 5,
+        "classLabel": "clock",
+        "confidence": 0.875,
+        "height": 120.636,
+        "id": 1662,
+        "orientation": 0,
+        "width": 191.171,
+        "x": 772.426,
+        "y": 368.768,
+        "source_height": 720,
+        "source_width": 1166
+      }
+    ],
+    "seconds": 0,
+    "source_height": 720,
+    "source_id": "b3c2c360-c155-11ee-931f-0242ac110007",
+    "source_width": 1166,
+    "system_timestamp": 1706828432867185000,
+    "timestamp": 0,
+    "count": 1
+  }
+]

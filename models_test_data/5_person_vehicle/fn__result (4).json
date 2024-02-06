@@ -1,0 +1,52 @@
+[
+  {
+    "objects": [
+      {
+        "category": "vehicle",
+        "classId": 1,
+        "classLabel": "car",
+        "confidence": 0.936,
+        "height": 41.958,
+        "id": 303,
+        "orientation": 0,
+        "width": 79.218,
+        "x": 1041.548,
+        "y": 669.059,
+        "source_height": 720,
+        "source_width": 1280
+      }
+    ],
+    "seconds": 0,
+    "source_height": 720,
+    "source_id": "f0a46918-c150-11ee-931f-0242ac110007",
+    "source_width": 1280,
+    "system_timestamp": 1706826387528892000,
+    "timestamp": 0,
+    "count": 1
+  },
+  {
+    "objects": [
+      {
+        "category": "vehicle",
+        "classId": 1,
+        "classLabel": "car",
+        "confidence": 0.936,
+        "height": 41.958,
+        "id": 303,
+        "orientation": 0,
+        "width": 79.218,
+        "x": 1041.548,
+        "y": 669.059,
+        "source_height": 720,
+        "source_width": 1280
+      }
+    ],
+    "seconds": 0,
+    "source_height": 720,
+    "source_id": "f0a46918-c150-11ee-931f-0242ac110007",
+    "source_width": 1280,
+    "system_timestamp": 1706826387528892000,
+    "timestamp": 0,
+    "count": 1
+  }
+]

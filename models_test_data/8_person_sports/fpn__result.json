@@ -1,0 +1,136 @@
+[
+  {
+    "objects": [
+      {
+        "category": "person",
+        "classId": 0,
+        "classLabel": "person",
+        "confidence": 0.962,
+        "height": 551.5,
+        "id": 2060,
+        "orientation": 0,
+        "width": 147.421,
+        "x": 60.961,
+        "y": 118.408,
+        "source_height": 705,
+        "source_width": 640
+      },
+      {
+        "category": "person",
+        "classId": 0,
+        "classLabel": "person",
+        "confidence": 0.919,
+        "height": 574.837,
+        "id": 2062,
+        "orientation": 0,
+        "width": 231.107,
+        "x": 308.104,
+        "y": 40.461,
+        "source_height": 705,
+        "source_width": 640
+      },
+      {
+        "category": "sports",
+        "classId": 3,
+        "classLabel": "sports ball",
+        "confidence": 0.853,
+        "height": 137.739,
+        "id": 2066,
+        "orientation": 0,
+        "width": 116.766,
+        "x": 388.303,
+        "y": 512.021,
+        "source_height": 705,
+        "source_width": 640
+      },
+      {
+        "category": "person",
+        "classId": 0,
+        "classLabel": "person",
+        "confidence": 0.937,
+        "height": 473.717,
+        "id": 2061,
+        "orientation": 0,
+        "width": 179.661,
+        "x": 192.644,
+        "y": 200.863,
+        "source_height": 705,
+        "source_width": 640
+      }
+    ],
+    "seconds": 0,
+    "source_height": 705,
+    "source_id": "c385d8ec-c156-11ee-931f-0242ac110007",
+    "source_width": 640,
+    "system_timestamp": 1706828888781506000,
+    "timestamp": 0,
+    "count": 1
+  },
+  {
+    "objects": [
+      {
+        "category": "person",
+        "classId": 0,
+        "classLabel": "person",
+        "confidence": 0.962,
+        "height": 551.5,
+        "id": 2060,
+        "orientation": 0,
+        "width": 147.421,
+        "x": 60.961,
+        "y": 118.408,
+        "source_height": 705,
+        "source_width": 640
+      },
+      {
+        "category": "person",
+        "classId": 0,
+        "classLabel": "person",
+        "confidence": 0.919,
+        "height": 574.837,
+        "id": 2062,
+        "orientation": 0,
+        "width": 231.107,
+        "x": 308.104,
+        "y": 40.461,
+        "source_height": 705,
+        "source_width": 640
+      },
+      {
+        "category": "sports",
+        "classId": 3,
+        "classLabel": "sports ball",
+        "confidence": 0.853,
+        "height": 137.739,
+        "id": 2066,
+        "orientation": 0,
+        "width": 116.766,
+        "x": 388.303,
+        "y": 512.021,
+        "source_height": 705,
+        "source_width": 640
+      },
+      {
+        "category": "person",
+        "classId": 0,
+        "classLabel": "person",
+        "confidence": 0.937,
+        "height": 473.717,
+        "id": 2061,
+        "orientation": 0,
+        "width": 179.661,
+        "x": 192.644,
+        "y": 200.863,
+        "source_height": 705,
+        "source_width": 640
+      }
+    ],
+    "seconds": 0,
+    "source_height": 705,
+    "source_id": "c385d8ec-c156-11ee-931f-0242ac110007",
+    "source_width": 640,
+    "system_timestamp": 1706828888781506000,
+    "timestamp": 0,
+    "count": 1
+  }
+]

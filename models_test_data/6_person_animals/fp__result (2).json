@@ -1,0 +1,52 @@
+[
+  {
+    "objects": [
+      {
+        "category": "animal",
+        "classId": 0,
+        "classLabel": "bird",
+        "confidence": 0.919,
+        "height": 324.471,
+        "id": 1267,
+        "orientation": 0,
+        "width": 131.692,
+        "x": 682.133,
+        "y": 209.802,
+        "source_height": 720,
+        "source_width": 1280
+      }
+    ],
+    "seconds": 0,
+    "source_height": 720,
+    "source_id": "ef33a0b0-c152-11ee-931f-0242ac110007",
+    "source_width": 1280,
+    "system_timestamp": 1706827244068956000,
+    "timestamp": 0,
+    "count": 1
+  },
+  {
+    "objects": [
+      {
+        "category": "animal",
+        "classId": 0,
+        "classLabel": "bird",
+        "confidence": 0.919,
+        "height": 324.471,
+        "id": 1267,
+        "orientation": 0,
+        "width": 131.692,
+        "x": 682.133,
+        "y": 209.802,
+        "source_height": 720,
+        "source_width": 1280
+      }
+    ],
+    "seconds": 0,
+    "source_height": 720,
+    "source_id": "ef33a0b0-c152-11ee-931f-0242ac110007",
+    "source_width": 1280,
+    "system_timestamp": 1706827244068956000,
+    "timestamp": 0,
+    "count": 1
+  }
+]

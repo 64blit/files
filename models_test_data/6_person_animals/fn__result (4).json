@@ -1,0 +1,80 @@
+[
+  {
+    "objects": [
+      {
+        "category": "animal",
+        "classId": 0,
+        "classLabel": "bird",
+        "confidence": 0.847,
+        "height": 54.318,
+        "id": 1283,
+        "orientation": 0,
+        "width": 73.351,
+        "x": 416.874,
+        "y": 337.188,
+        "source_height": 720,
+        "source_width": 1280
+      },
+      {
+        "category": "animal",
+        "classId": 0,
+        "classLabel": "bird",
+        "confidence": 0.872,
+        "height": 82.935,
+        "id": 1282,
+        "orientation": 0,
+        "width": 145.966,
+        "x": 0,
+        "y": 400.039,
+        "source_height": 720,
+        "source_width": 1280
+      }
+    ],
+    "seconds": 0,
+    "source_height": 720,
+    "source_id": "1c4f1b24-c153-11ee-931f-0242ac110007",
+    "source_width": 1280,
+    "system_timestamp": 1706827319785274000,
+    "timestamp": 0,
+    "count": 1
+  },
+  {
+    "objects": [
+      {
+        "category": "animal",
+        "classId": 0,
+        "classLabel": "bird",
+        "confidence": 0.847,
+        "height": 54.318,
+        "id": 1283,
+        "orientation": 0,
+        "width": 73.351,
+        "x": 416.874,
+        "y": 337.188,
+        "source_height": 720,
+        "source_width": 1280
+      },
+      {
+        "category": "animal",
+        "classId": 0,
+        "classLabel": "bird",
+        "confidence": 0.872,
+        "height": 82.935,
+        "id": 1282,
+        "orientation": 0,
+        "width": 145.966,
+        "x": 0,
+        "y": 400.039,
+        "source_height": 720,
+        "source_width": 1280
+      }
+    ],
+    "seconds": 0,
+    "source_height": 720,
+    "source_id": "1c4f1b24-c153-11ee-931f-0242ac110007",
+    "source_width": 1280,
+    "system_timestamp": 1706827319785274000,
+    "timestamp": 0,
+    "count": 1
+  }
+]

@@ -1,0 +1,52 @@
+[
+  {
+    "objects": [
+      {
+        "category": "animal",
+        "classId": 5,
+        "classLabel": "cow",
+        "confidence": 0.912,
+        "height": 418.204,
+        "id": 1270,
+        "orientation": 0,
+        "width": 812.014,
+        "x": 467.985,
+        "y": 270.27,
+        "source_height": 720,
+        "source_width": 1280
+      }
+    ],
+    "seconds": 0,
+    "source_height": 720,
+    "source_id": "ffde04e0-c152-11ee-931f-0242ac110007",
+    "source_width": 1280,
+    "system_timestamp": 1706827272108780000,
+    "timestamp": 0,
+    "count": 1
+  },
+  {
+    "objects": [
+      {
+        "category": "animal",
+        "classId": 5,
+        "classLabel": "cow",
+        "confidence": 0.912,
+        "height": 418.204,
+        "id": 1270,
+        "orientation": 0,
+        "width": 812.014,
+        "x": 467.985,
+        "y": 270.27,
+        "source_height": 720,
+        "source_width": 1280
+      }
+    ],
+    "seconds": 0,
+    "source_height": 720,
+    "source_id": "ffde04e0-c152-11ee-931f-0242ac110007",
+    "source_width": 1280,
+    "system_timestamp": 1706827272108780000,
+    "timestamp": 0,
+    "count": 1
+  }
+]

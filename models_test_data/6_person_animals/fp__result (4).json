@@ -1,0 +1,80 @@
+[
+  {
+    "objects": [
+      {
+        "category": "person",
+        "classId": 0,
+        "classLabel": "person",
+        "confidence": 0.896,
+        "height": 495.292,
+        "id": 1288,
+        "orientation": 0,
+        "width": 226.738,
+        "x": 1053.261,
+        "y": 197.745,
+        "source_height": 720,
+        "source_width": 1280
+      },
+      {
+        "category": "animal",
+        "classId": 2,
+        "classLabel": "dog",
+        "confidence": 0.86,
+        "height": 505.045,
+        "id": 1290,
+        "orientation": 0,
+        "width": 229.908,
+        "x": 1050.091,
+        "y": 192.117,
+        "source_height": 720,
+        "source_width": 1280
+      }
+    ],
+    "seconds": 0,
+    "source_height": 720,
+    "source_id": "498a62f7-c153-11ee-931f-0242ac110007",
+    "source_width": 1280,
+    "system_timestamp": 1706827395648695000,
+    "timestamp": 0,
+    "count": 1
+  },
+  {
+    "objects": [
+      {
+        "category": "person",
+        "classId": 0,
+        "classLabel": "person",
+        "confidence": 0.896,
+        "height": 495.292,
+        "id": 1288,
+        "orientation": 0,
+        "width": 226.738,
+        "x": 1053.261,
+        "y": 197.745,
+        "source_height": 720,
+        "source_width": 1280
+      },
+      {
+        "category": "animal",
+        "classId": 2,
+        "classLabel": "dog",
+        "confidence": 0.86,
+        "height": 505.045,
+        "id": 1290,
+        "orientation": 0,
+        "width": 229.908,
+        "x": 1050.091,
+        "y": 192.117,
+        "source_height": 720,
+        "source_width": 1280
+      }
+    ],
+    "seconds": 0,
+    "source_height": 720,
+    "source_id": "498a62f7-c153-11ee-931f-0242ac110007",
+    "source_width": 1280,
+    "system_timestamp": 1706827395648695000,
+    "timestamp": 0,
+    "count": 1
+  }
+]

@@ -1,0 +1,80 @@
+[
+  {
+    "objects": [
+      {
+        "category": "person",
+        "classId": 0,
+        "classLabel": "person",
+        "confidence": 0.831,
+        "height": 41.974,
+        "id": 1947,
+        "orientation": 0,
+        "width": 36.5,
+        "x": 517.764,
+        "y": 180.537,
+        "source_height": 540,
+        "source_width": 960
+      },
+      {
+        "category": "device",
+        "classId": 2,
+        "classLabel": "remote",
+        "confidence": 0.843,
+        "height": 448.083,
+        "id": 1949,
+        "orientation": 0,
+        "width": 658.173,
+        "x": 210.362,
+        "y": 60.226,
+        "source_height": 540,
+        "source_width": 960
+      }
+    ],
+    "seconds": 0,
+    "source_height": 540,
+    "source_id": "955eac3b-c156-11ee-931f-0242ac110007",
+    "source_width": 960,
+    "system_timestamp": 1706828811353874000,
+    "timestamp": 0,
+    "count": 1
+  },
+  {
+    "objects": [
+      {
+        "category": "person",
+        "classId": 0,
+        "classLabel": "person",
+        "confidence": 0.831,
+        "height": 41.974,
+        "id": 1947,
+        "orientation": 0,
+        "width": 36.5,
+        "x": 517.764,
+        "y": 180.537,
+        "source_height": 540,
+        "source_width": 960
+      },
+      {
+        "category": "device",
+        "classId": 2,
+        "classLabel": "remote",
+        "confidence": 0.843,
+        "height": 448.083,
+        "id": 1949,
+        "orientation": 0,
+        "width": 658.173,
+        "x": 210.362,
+        "y": 60.226,
+        "source_height": 540,
+        "source_width": 960
+      }
+    ],
+    "seconds": 0,
+    "source_height": 540,
+    "source_id": "955eac3b-c156-11ee-931f-0242ac110007",
+    "source_width": 960,
+    "system_timestamp": 1706828811353874000,
+    "timestamp": 0,
+    "count": 1
+  }
+]

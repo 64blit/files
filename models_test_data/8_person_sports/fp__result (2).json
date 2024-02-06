@@ -1,0 +1,108 @@
+[
+  {
+    "objects": [
+      {
+        "category": "sports",
+        "classId": 8,
+        "classLabel": "surfboard",
+        "confidence": 0.829,
+        "height": 19.288,
+        "id": 2221,
+        "orientation": 0,
+        "width": 20.058,
+        "x": 60.425,
+        "y": 236.766,
+        "source_height": 360,
+        "source_width": 640
+      },
+      {
+        "category": "person",
+        "classId": 0,
+        "classLabel": "person",
+        "confidence": 0.837,
+        "height": 113.883,
+        "id": 2218,
+        "orientation": 0,
+        "width": 36.476,
+        "x": 122.53,
+        "y": 185.392,
+        "source_height": 360,
+        "source_width": 640
+      },
+      {
+        "category": "person",
+        "classId": 0,
+        "classLabel": "person",
+        "confidence": 0.905,
+        "height": 116.815,
+        "id": 2217,
+        "orientation": 0,
+        "width": 49.089,
+        "x": 544.186,
+        "y": 138.955,
+        "source_height": 360,
+        "source_width": 640
+      }
+    ],
+    "seconds": 0,
+    "source_height": 360,
+    "source_id": "0c435f1a-c157-11ee-931f-0242ac110007",
+    "source_width": 640,
+    "system_timestamp": 1706829010811784000,
+    "timestamp": 0,
+    "count": 1
+  },
+  {
+    "objects": [
+      {
+        "category": "sports",
+        "classId": 8,
+        "classLabel": "surfboard",
+        "confidence": 0.829,
+        "height": 19.288,
+        "id": 2221,
+        "orientation": 0,
+        "width": 20.058,
+        "x": 60.425,
+        "y": 236.766,
+        "source_height": 360,
+        "source_width": 640
+      },
+      {
+        "category": "person",
+        "classId": 0,
+        "classLabel": "person",
+        "confidence": 0.837,
+        "height": 113.883,
+        "id": 2218,
+        "orientation": 0,
+        "width": 36.476,
+        "x": 122.53,
+        "y": 185.392,
+        "source_height": 360,
+        "source_width": 640
+      },
+      {
+        "category": "person",
+        "classId": 0,
+        "classLabel": "person",
+        "confidence": 0.905,
+        "height": 116.815,
+        "id": 2217,
+        "orientation": 0,
+        "width": 49.089,
+        "x": 544.186,
+        "y": 138.955,
+        "source_height": 360,
+        "source_width": 640
+      }
+    ],
+    "seconds": 0,
+    "source_height": 360,
+    "source_id": "0c435f1a-c157-11ee-931f-0242ac110007",
+    "source_width": 640,
+    "system_timestamp": 1706829010811784000,
+    "timestamp": 0,
+    "count": 1
+  }
+]

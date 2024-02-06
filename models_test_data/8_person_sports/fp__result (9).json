@@ -1,0 +1,108 @@
+[
+  {
+    "objects": [
+      {
+        "category": "person",
+        "classId": 0,
+        "classLabel": "person",
+        "confidence": 0.904,
+        "height": 553.045,
+        "id": 3171,
+        "orientation": 0,
+        "width": 849.284,
+        "x": 205.772,
+        "y": 398.194,
+        "source_height": 959,
+        "source_width": 1280
+      },
+      {
+        "category": "sports",
+        "classId": 0,
+        "classLabel": "frisbee",
+        "confidence": 0.94,
+        "height": 160.506,
+        "id": 3173,
+        "orientation": 0,
+        "width": 158.777,
+        "x": 212.525,
+        "y": 109.231,
+        "source_height": 959,
+        "source_width": 1280
+      },
+      {
+        "category": "sports",
+        "classId": 0,
+        "classLabel": "frisbee",
+        "confidence": 0.838,
+        "height": 150.391,
+        "id": 3174,
+        "orientation": 0,
+        "width": 109.245,
+        "x": 1067.141,
+        "y": 432.979,
+        "source_height": 959,
+        "source_width": 1280
+      }
+    ],
+    "seconds": 0,
+    "source_height": 959,
+    "source_id": "81d41328-c158-11ee-931f-0242ac110007",
+    "source_width": 1280,
+    "system_timestamp": 1706829637698122000,
+    "timestamp": 0,
+    "count": 1
+  },
+  {
+    "objects": [
+      {
+        "category": "person",
+        "classId": 0,
+        "classLabel": "person",
+        "confidence": 0.904,
+        "height": 553.045,
+        "id": 3171,
+        "orientation": 0,
+        "width": 849.284,
+        "x": 205.772,
+        "y": 398.194,
+        "source_height": 959,
+        "source_width": 1280
+      },
+      {
+        "category": "sports",
+        "classId": 0,
+        "classLabel": "frisbee",
+        "confidence": 0.94,
+        "height": 160.506,
+        "id": 3173,
+        "orientation": 0,
+        "width": 158.777,
+        "x": 212.525,
+        "y": 109.231,
+        "source_height": 959,
+        "source_width": 1280
+      },
+      {
+        "category": "sports",
+        "classId": 0,
+        "classLabel": "frisbee",
+        "confidence": 0.838,
+        "height": 150.391,
+        "id": 3174,
+        "orientation": 0,
+        "width": 109.245,
+        "x": 1067.141,
+        "y": 432.979,
+        "source_height": 959,
+        "source_width": 1280
+      }
+    ],
+    "seconds": 0,
+    "source_height": 959,
+    "source_id": "81d41328-c158-11ee-931f-0242ac110007",
+    "source_width": 1280,
+    "system_timestamp": 1706829637698122000,
+    "timestamp": 0,
+    "count": 1
+  }
+]

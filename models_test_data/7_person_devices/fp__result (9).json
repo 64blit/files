@@ -1,0 +1,52 @@
+[
+  {
+    "objects": [
+      {
+        "category": "device",
+        "classId": 5,
+        "classLabel": "clock",
+        "confidence": 0.857,
+        "height": 26.303,
+        "id": 1928,
+        "orientation": 0,
+        "width": 44.972,
+        "x": 438.329,
+        "y": 185.796,
+        "source_height": 360,
+        "source_width": 640
+      }
+    ],
+    "seconds": 0,
+    "source_height": 360,
+    "source_id": "867183bb-c156-11ee-931f-0242ac110007",
+    "source_width": 640,
+    "system_timestamp": 1706828786292027000,
+    "timestamp": 0,
+    "count": 1
+  },
+  {
+    "objects": [
+      {
+        "category": "device",
+        "classId": 5,
+        "classLabel": "clock",
+        "confidence": 0.857,
+        "height": 26.303,
+        "id": 1928,
+        "orientation": 0,
+        "width": 44.972,
+        "x": 438.329,
+        "y": 185.796,
+        "source_height": 360,
+        "source_width": 640
+      }
+    ],
+    "seconds": 0,
+    "source_height": 360,
+    "source_id": "867183bb-c156-11ee-931f-0242ac110007",
+    "source_width": 640,
+    "system_timestamp": 1706828786292027000,
+    "timestamp": 0,
+    "count": 1
+  }
+]

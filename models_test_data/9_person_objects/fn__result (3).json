@@ -1,0 +1,52 @@
+[
+  {
+    "objects": [
+      {
+        "category": "common-objects",
+        "classId": 3,
+        "classLabel": "car",
+        "confidence": 0.885,
+        "height": 49.84,
+        "id": 3350,
+        "orientation": 0,
+        "width": 59.995,
+        "x": 501.711,
+        "y": 377.181,
+        "source_height": 720,
+        "source_width": 1280
+      }
+    ],
+    "seconds": 0,
+    "source_height": 720,
+    "source_id": "17d62198-c159-11ee-931f-0242ac110007",
+    "source_width": 1280,
+    "system_timestamp": 1706829889219949000,
+    "timestamp": 0,
+    "count": 1
+  },
+  {
+    "objects": [
+      {
+        "category": "common-objects",
+        "classId": 3,
+        "classLabel": "car",
+        "confidence": 0.885,
+        "height": 49.84,
+        "id": 3350,
+        "orientation": 0,
+        "width": 59.995,
+        "x": 501.711,
+        "y": 377.181,
+        "source_height": 720,
+        "source_width": 1280
+      }
+    ],
+    "seconds": 0,
+    "source_height": 720,
+    "source_id": "17d62198-c159-11ee-931f-0242ac110007",
+    "source_width": 1280,
+    "system_timestamp": 1706829889219949000,
+    "timestamp": 0,
+    "count": 1
+  }
+]

@@ -1,0 +1,80 @@
+[
+  {
+    "objects": [
+      {
+        "category": "animal",
+        "classId": 9,
+        "classLabel": "giraffe",
+        "confidence": 0.835,
+        "height": 168.771,
+        "id": 1302,
+        "orientation": 0,
+        "width": 72.054,
+        "x": 625.853,
+        "y": 427.108,
+        "source_height": 720,
+        "source_width": 1280
+      },
+      {
+        "category": "animal",
+        "classId": 9,
+        "classLabel": "giraffe",
+        "confidence": 0.852,
+        "height": 200.717,
+        "id": 1301,
+        "orientation": 0,
+        "width": 143.963,
+        "x": 552.406,
+        "y": 408.514,
+        "source_height": 720,
+        "source_width": 1280
+      }
+    ],
+    "seconds": 0,
+    "source_height": 720,
+    "source_id": "6514af15-c153-11ee-931f-0242ac110007",
+    "source_width": 1280,
+    "system_timestamp": 1706827441869063000,
+    "timestamp": 0,
+    "count": 1
+  },
+  {
+    "objects": [
+      {
+        "category": "animal",
+        "classId": 9,
+        "classLabel": "giraffe",
+        "confidence": 0.835,
+        "height": 168.771,
+        "id": 1302,
+        "orientation": 0,
+        "width": 72.054,
+        "x": 625.853,
+        "y": 427.108,
+        "source_height": 720,
+        "source_width": 1280
+      },
+      {
+        "category": "animal",
+        "classId": 9,
+        "classLabel": "giraffe",
+        "confidence": 0.852,
+        "height": 200.717,
+        "id": 1301,
+        "orientation": 0,
+        "width": 143.963,
+        "x": 552.406,
+        "y": 408.514,
+        "source_height": 720,
+        "source_width": 1280
+      }
+    ],
+    "seconds": 0,
+    "source_height": 720,
+    "source_id": "6514af15-c153-11ee-931f-0242ac110007",
+    "source_width": 1280,
+    "system_timestamp": 1706827441869063000,
+    "timestamp": 0,
+    "count": 1
+  }
+]
