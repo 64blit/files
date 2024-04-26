@@ -1,0 +1,404 @@
+[
+  {
+    "objects": [
+      {
+        "classId": 0,
+        "classLabel": "person",
+        "confidence": 0.883,
+        "height": 224.418,
+        "id": 1969,
+        "inferId": 1,
+        "orientation": 0,
+        "width": 75.763,
+        "x": 240.75,
+        "y": 361.632,
+        "source_height": 1080,
+        "source_width": 1920
+      },
+      {
+        "classId": 0,
+        "classLabel": "person",
+        "confidence": 0.9,
+        "height": 279.329,
+        "id": 1968,
+        "inferId": 1,
+        "objects": [
+          {
+            "category": "text",
+            "classId": 0,
+            "classLabel": "text",
+            "confidence": 0.779,
+            "height": 36.961,
+            "id": 1984,
+            "labels": [
+              {
+                "category": "text",
+                "confidence": 0.498,
+                "id": 1985,
+                "label": "ULANCIONAS"
+              }
+            ],
+            "orientation": 0,
+            "width": 52.484,
+            "x": 1281.698,
+            "y": 491.656
+          },
+          {
+            "category": "text",
+            "classId": 0,
+            "classLabel": "text",
+            "confidence": 0.931,
+            "height": 34.457,
+            "id": 1983,
+            "labels": [
+              {
+                "category": "text",
+                "confidence": 0.999,
+                "id": 1987,
+                "label": "17"
+              }
+            ],
+            "orientation": 0,
+            "width": 28.443,
+            "x": 1291.175,
+            "y": 516.674
+          }
+        ],
+        "orientation": 0,
+        "width": 125.496,
+        "x": 1239.584,
+        "y": 459.35,
+        "source_height": 1080,
+        "source_width": 1920
+      },
+      {
+        "classId": 0,
+        "classLabel": "person",
+        "confidence": 0.911,
+        "height": 207.436,
+        "id": 1967,
+        "inferId": 1,
+        "orientation": 0,
+        "width": 80.108,
+        "x": 1334.737,
+        "y": 802.353,
+        "source_height": 1080,
+        "source_width": 1920
+      },
+      {
+        "classId": 0,
+        "classLabel": "person",
+        "confidence": 0.836,
+        "height": 98.354,
+        "id": 1973,
+        "inferId": 1,
+        "orientation": 0,
+        "width": 105.602,
+        "x": 1737.377,
+        "y": 981.645,
+        "source_height": 1080,
+        "source_width": 1920
+      },
+      {
+        "classId": 0,
+        "classLabel": "person",
+        "confidence": 0.912,
+        "height": 286.831,
+        "id": 1966,
+        "inferId": 1,
+        "orientation": 0,
+        "width": 106.405,
+        "x": 365.631,
+        "y": 497.135,
+        "source_height": 1080,
+        "source_width": 1920
+      },
+      {
+        "classId": 0,
+        "classLabel": "person",
+        "confidence": 0.86,
+        "height": 213.424,
+        "id": 1972,
+        "inferId": 1,
+        "objects": [
+          {
+            "category": "text",
+            "classId": 0,
+            "classLabel": "text",
+            "confidence": 0.929,
+            "height": 35.476,
+            "id": 1982,
+            "labels": [
+              {
+                "category": "text",
+                "confidence": 0.999,
+                "id": 1986,
+                "label": "74"
+              }
+            ],
+            "orientation": 0,
+            "width": 27.119,
+            "x": 1143.474,
+            "y": 821.998
+          }
+        ],
+        "orientation": 0,
+        "width": 150.392,
+        "x": 1103.261,
+        "y": 771.119,
+        "source_height": 1080,
+        "source_width": 1920
+      },
+      {
+        "classId": 0,
+        "classLabel": "person",
+        "confidence": 0.878,
+        "height": 231.6,
+        "id": 1971,
+        "inferId": 1,
+        "orientation": 0,
+        "width": 135.585,
+        "x": 776.328,
+        "y": 755.954,
+        "source_height": 1080,
+        "source_width": 1920
+      },
+      {
+        "classId": 0,
+        "classLabel": "person",
+        "confidence": 0.882,
+        "height": 178.644,
+        "id": 1970,
+        "inferId": 1,
+        "orientation": 0,
+        "width": 121.179,
+        "x": 533.844,
+        "y": 441.042,
+        "source_height": 1080,
+        "source_width": 1920
+      },
+      {
+        "category": "sports equipment",
+        "classId": 7,
+        "classLabel": "skateboard",
+        "confidence": 0.745,
+        "height": 63.135,
+        "id": 1988,
+        "orientation": 0,
+        "width": 64.229,
+        "x": 1106.325,
+        "y": 550.495,
+        "source_height": 1080,
+        "source_width": 1920
+      }
+    ],
+    "seconds": 0,
+    "source_height": 1080,
+    "source_id": "6a61562a-0407-11ef-a9f5-0242ac110007",
+    "source_width": 1920,
+    "system_timestamp": 1714161537103892000,
+    "timestamp": 0,
+    "count": 1
+  },
+  {
+    "objects": [
+      {
+        "classId": 0,
+        "classLabel": "person",
+        "confidence": 0.883,
+        "height": 224.418,
+        "id": 1969,
+        "inferId": 1,
+        "orientation": 0,
+        "width": 75.763,
+        "x": 240.75,
+        "y": 361.632,
+        "source_height": 1080,
+        "source_width": 1920
+      },
+      {
+        "classId": 0,
+        "classLabel": "person",
+        "confidence": 0.9,
+        "height": 279.329,
+        "id": 1968,
+        "inferId": 1,
+        "objects": [
+          {
+            "category": "text",
+            "classId": 0,
+            "classLabel": "text",
+            "confidence": 0.779,
+            "height": 36.961,
+            "id": 1984,
+            "labels": [
+              {
+                "category": "text",
+                "confidence": 0.498,
+                "id": 1985,
+                "label": "ULANCIONAS"
+              }
+            ],
+            "orientation": 0,
+            "width": 52.484,
+            "x": 1281.698,
+            "y": 491.656
+          },
+          {
+            "category": "text",
+            "classId": 0,
+            "classLabel": "text",
+            "confidence": 0.931,
+            "height": 34.457,
+            "id": 1983,
+            "labels": [
+              {
+                "category": "text",
+                "confidence": 0.999,
+                "id": 1987,
+                "label": "17"
+              }
+            ],
+            "orientation": 0,
+            "width": 28.443,
+            "x": 1291.175,
+            "y": 516.674
+          }
+        ],
+        "orientation": 0,
+        "width": 125.496,
+        "x": 1239.584,
+        "y": 459.35,
+        "source_height": 1080,
+        "source_width": 1920
+      },
+      {
+        "classId": 0,
+        "classLabel": "person",
+        "confidence": 0.911,
+        "height": 207.436,
+        "id": 1967,
+        "inferId": 1,
+        "orientation": 0,
+        "width": 80.108,
+        "x": 1334.737,
+        "y": 802.353,
+        "source_height": 1080,
+        "source_width": 1920
+      },
+      {
+        "classId": 0,
+        "classLabel": "person",
+        "confidence": 0.836,
+        "height": 98.354,
+        "id": 1973,
+        "inferId": 1,
+        "orientation": 0,
+        "width": 105.602,
+        "x": 1737.377,
+        "y": 981.645,
+        "source_height": 1080,
+        "source_width": 1920
+      },
+      {
+        "classId": 0,
+        "classLabel": "person",
+        "confidence": 0.912,
+        "height": 286.831,
+        "id": 1966,
+        "inferId": 1,
+        "orientation": 0,
+        "width": 106.405,
+        "x": 365.631,
+        "y": 497.135,
+        "source_height": 1080,
+        "source_width": 1920
+      },
+      {
+        "classId": 0,
+        "classLabel": "person",
+        "confidence": 0.86,
+        "height": 213.424,
+        "id": 1972,
+        "inferId": 1,
+        "objects": [
+          {
+            "category": "text",
+            "classId": 0,
+            "classLabel": "text",
+            "confidence": 0.929,
+            "height": 35.476,
+            "id": 1982,
+            "labels": [
+              {
+                "category": "text",
+                "confidence": 0.999,
+                "id": 1986,
+                "label": "74"
+              }
+            ],
+            "orientation": 0,
+            "width": 27.119,
+            "x": 1143.474,
+            "y": 821.998
+          }
+        ],
+        "orientation": 0,
+        "width": 150.392,
+        "x": 1103.261,
+        "y": 771.119,
+        "source_height": 1080,
+        "source_width": 1920
+      },
+      {
+        "classId": 0,
+        "classLabel": "person",
+        "confidence": 0.878,
+        "height": 231.6,
+        "id": 1971,
+        "inferId": 1,
+        "orientation": 0,
+        "width": 135.585,
+        "x": 776.328,
+        "y": 755.954,
+        "source_height": 1080,
+        "source_width": 1920
+      },
+      {
+        "classId": 0,
+        "classLabel": "person",
+        "confidence": 0.882,
+        "height": 178.644,
+        "id": 1970,
+        "inferId": 1,
+        "orientation": 0,
+        "width": 121.179,
+        "x": 533.844,
+        "y": 441.042,
+        "source_height": 1080,
+        "source_width": 1920
+      },
+      {
+        "category": "sports equipment",
+        "classId": 7,
+        "classLabel": "skateboard",
+        "confidence": 0.745,
+        "height": 63.135,
+        "id": 1988,
+        "orientation": 0,
+        "width": 64.229,
+        "x": 1106.325,
+        "y": 550.495,
+        "source_height": 1080,
+        "source_width": 1920
+      }
+    ],
+    "seconds": 0,
+    "source_height": 1080,
+    "source_id": "6a61562a-0407-11ef-a9f5-0242ac110007",
+    "source_width": 1920,
+    "system_timestamp": 1714161537103892000,
+    "timestamp": 0,
+    "count": 1
+  }
+]

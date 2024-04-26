@@ -1,0 +1,392 @@
+[
+  {
+    "objects": [
+      {
+        "classId": 0,
+        "classLabel": "person",
+        "confidence": 0.814,
+        "height": 231.603,
+        "id": 1443,
+        "inferId": 1,
+        "objects": [
+          {
+            "category": "text",
+            "classId": 0,
+            "classLabel": "text",
+            "confidence": 0.916,
+            "height": 17.669,
+            "id": 1453,
+            "orientation": 0,
+            "width": 26.334,
+            "x": 1325.069,
+            "y": 377.446
+          }
+        ],
+        "orientation": 0,
+        "width": 81.668,
+        "x": 1286.038,
+        "y": 336.103,
+        "source_height": 1080,
+        "source_width": 1920
+      },
+      {
+        "classId": 0,
+        "classLabel": "person",
+        "confidence": 0.887,
+        "height": 262.913,
+        "id": 1436,
+        "inferId": 1,
+        "orientation": 0,
+        "width": 117.08,
+        "x": 576.725,
+        "y": 384.135,
+        "source_height": 1080,
+        "source_width": 1920
+      },
+      {
+        "classId": 0,
+        "classLabel": "person",
+        "confidence": 0.819,
+        "height": 276.31,
+        "id": 1442,
+        "inferId": 1,
+        "orientation": 0,
+        "width": 116.372,
+        "x": 547.722,
+        "y": 803.689,
+        "source_height": 1080,
+        "source_width": 1920
+      },
+      {
+        "classId": 0,
+        "classLabel": "person",
+        "confidence": 0.948,
+        "height": 310.363,
+        "id": 1435,
+        "inferId": 1,
+        "objects": [
+          {
+            "category": "text",
+            "classId": 0,
+            "classLabel": "text",
+            "confidence": 0.798,
+            "height": 33.744,
+            "id": 1455,
+            "labels": [
+              {
+                "category": "text",
+                "confidence": 0.986,
+                "id": 1457,
+                "label": "48"
+              }
+            ],
+            "orientation": 0,
+            "width": 29.675,
+            "x": 1083.094,
+            "y": 814.138
+          }
+        ],
+        "orientation": 0,
+        "width": 120.956,
+        "x": 1019.578,
+        "y": 744.17,
+        "source_height": 1080,
+        "source_width": 1920
+      },
+      {
+        "classId": 0,
+        "classLabel": "person",
+        "confidence": 0.828,
+        "height": 300.68,
+        "id": 1441,
+        "inferId": 1,
+        "orientation": 0,
+        "width": 172.506,
+        "x": 1345.375,
+        "y": 400.786,
+        "source_height": 1080,
+        "source_width": 1920
+      },
+      {
+        "classId": 0,
+        "classLabel": "person",
+        "confidence": 0.868,
+        "height": 128.134,
+        "id": 1440,
+        "inferId": 1,
+        "objects": [
+          {
+            "category": "text",
+            "classId": 0,
+            "classLabel": "text",
+            "confidence": 0.722,
+            "height": 20.268,
+            "id": 1454,
+            "labels": [
+              {
+                "category": "text",
+                "confidence": 0.255,
+                "id": 1456,
+                "label": "G"
+              }
+            ],
+            "orientation": 0,
+            "width": 15.515,
+            "x": 752.643,
+            "y": 964.268
+          }
+        ],
+        "orientation": 0,
+        "width": 132.551,
+        "x": 677.218,
+        "y": 951.865,
+        "source_height": 1080,
+        "source_width": 1920
+      },
+      {
+        "classId": 0,
+        "classLabel": "person",
+        "confidence": 0.87,
+        "height": 174.779,
+        "id": 1439,
+        "inferId": 1,
+        "orientation": 0,
+        "width": 159.473,
+        "x": 420.82,
+        "y": 905.22,
+        "source_height": 1080,
+        "source_width": 1920
+      },
+      {
+        "classId": 0,
+        "classLabel": "person",
+        "confidence": 0.87,
+        "height": 252.004,
+        "id": 1438,
+        "inferId": 1,
+        "orientation": 0,
+        "width": 128.072,
+        "x": 1432.527,
+        "y": 598.85,
+        "source_height": 1080,
+        "source_width": 1920
+      },
+      {
+        "classId": 0,
+        "classLabel": "person",
+        "confidence": 0.887,
+        "height": 319.097,
+        "id": 1437,
+        "inferId": 1,
+        "orientation": 0,
+        "width": 119.591,
+        "x": 736.512,
+        "y": 417.295,
+        "source_height": 1080,
+        "source_width": 1920
+      }
+    ],
+    "seconds": 0,
+    "source_height": 1080,
+    "source_id": "bfb665fa-0406-11ef-a9f5-0242ac110007",
+    "source_width": 1920,
+    "system_timestamp": 1714161250776830000,
+    "timestamp": 0,
+    "count": 1
+  },
+  {
+    "objects": [
+      {
+        "classId": 0,
+        "classLabel": "person",
+        "confidence": 0.814,
+        "height": 231.603,
+        "id": 1443,
+        "inferId": 1,
+        "objects": [
+          {
+            "category": "text",
+            "classId": 0,
+            "classLabel": "text",
+            "confidence": 0.916,
+            "height": 17.669,
+            "id": 1453,
+            "orientation": 0,
+            "width": 26.334,
+            "x": 1325.069,
+            "y": 377.446
+          }
+        ],
+        "orientation": 0,
+        "width": 81.668,
+        "x": 1286.038,
+        "y": 336.103,
+        "source_height": 1080,
+        "source_width": 1920
+      },
+      {
+        "classId": 0,
+        "classLabel": "person",
+        "confidence": 0.887,
+        "height": 262.913,
+        "id": 1436,
+        "inferId": 1,
+        "orientation": 0,
+        "width": 117.08,
+        "x": 576.725,
+        "y": 384.135,
+        "source_height": 1080,
+        "source_width": 1920
+      },
+      {
+        "classId": 0,
+        "classLabel": "person",
+        "confidence": 0.819,
+        "height": 276.31,
+        "id": 1442,
+        "inferId": 1,
+        "orientation": 0,
+        "width": 116.372,
+        "x": 547.722,
+        "y": 803.689,
+        "source_height": 1080,
+        "source_width": 1920
+      },
+      {
+        "classId": 0,
+        "classLabel": "person",
+        "confidence": 0.948,
+        "height": 310.363,
+        "id": 1435,
+        "inferId": 1,
+        "objects": [
+          {
+            "category": "text",
+            "classId": 0,
+            "classLabel": "text",
+            "confidence": 0.798,
+            "height": 33.744,
+            "id": 1455,
+            "labels": [
+              {
+                "category": "text",
+                "confidence": 0.986,
+                "id": 1457,
+                "label": "48"
+              }
+            ],
+            "orientation": 0,
+            "width": 29.675,
+            "x": 1083.094,
+            "y": 814.138
+          }
+        ],
+        "orientation": 0,
+        "width": 120.956,
+        "x": 1019.578,
+        "y": 744.17,
+        "source_height": 1080,
+        "source_width": 1920
+      },
+      {
+        "classId": 0,
+        "classLabel": "person",
+        "confidence": 0.828,
+        "height": 300.68,
+        "id": 1441,
+        "inferId": 1,
+        "orientation": 0,
+        "width": 172.506,
+        "x": 1345.375,
+        "y": 400.786,
+        "source_height": 1080,
+        "source_width": 1920
+      },
+      {
+        "classId": 0,
+        "classLabel": "person",
+        "confidence": 0.868,
+        "height": 128.134,
+        "id": 1440,
+        "inferId": 1,
+        "objects": [
+          {
+            "category": "text",
+            "classId": 0,
+            "classLabel": "text",
+            "confidence": 0.722,
+            "height": 20.268,
+            "id": 1454,
+            "labels": [
+              {
+                "category": "text",
+                "confidence": 0.255,
+                "id": 1456,
+                "label": "G"
+              }
+            ],
+            "orientation": 0,
+            "width": 15.515,
+            "x": 752.643,
+            "y": 964.268
+          }
+        ],
+        "orientation": 0,
+        "width": 132.551,
+        "x": 677.218,
+        "y": 951.865,
+        "source_height": 1080,
+        "source_width": 1920
+      },
+      {
+        "classId": 0,
+        "classLabel": "person",
+        "confidence": 0.87,
+        "height": 174.779,
+        "id": 1439,
+        "inferId": 1,
+        "orientation": 0,
+        "width": 159.473,
+        "x": 420.82,
+        "y": 905.22,
+        "source_height": 1080,
+        "source_width": 1920
+      },
+      {
+        "classId": 0,
+        "classLabel": "person",
+        "confidence": 0.87,
+        "height": 252.004,
+        "id": 1438,
+        "inferId": 1,
+        "orientation": 0,
+        "width": 128.072,
+        "x": 1432.527,
+        "y": 598.85,
+        "source_height": 1080,
+        "source_width": 1920
+      },
+      {
+        "classId": 0,
+        "classLabel": "person",
+        "confidence": 0.887,
+        "height": 319.097,
+        "id": 1437,
+        "inferId": 1,
+        "orientation": 0,
+        "width": 119.591,
+        "x": 736.512,
+        "y": 417.295,
+        "source_height": 1080,
+        "source_width": 1920
+      }
+    ],
+    "seconds": 0,
+    "source_height": 1080,
+    "source_id": "bfb665fa-0406-11ef-a9f5-0242ac110007",
+    "source_width": 1920,
+    "system_timestamp": 1714161250776830000,
+    "timestamp": 0,
+    "count": 1
+  }
+]

@@ -1,0 +1,1012 @@
+[
+  {
+    "objects": [
+      {
+        "classId": 0,
+        "classLabel": "person",
+        "confidence": 0.873,
+        "height": 912.878,
+        "id": 1598,
+        "inferId": 1,
+        "objects": [
+          {
+            "category": "text",
+            "classId": 0,
+            "classLabel": "text",
+            "confidence": 0.731,
+            "height": 24.328,
+            "id": 1610,
+            "labels": [
+              {
+                "category": "text",
+                "confidence": 0.779,
+                "id": 1633,
+                "label": "Sol"
+              }
+            ],
+            "orientation": 0,
+            "width": 32.875,
+            "x": 1493.623,
+            "y": 859.939
+          },
+          {
+            "category": "text",
+            "classId": 0,
+            "classLabel": "text",
+            "confidence": 0.908,
+            "height": 33.938,
+            "id": 1608,
+            "orientation": 0,
+            "width": 59.731,
+            "x": 1466.77,
+            "y": 942.039
+          },
+          {
+            "category": "text",
+            "classId": 0,
+            "classLabel": "text",
+            "confidence": 0.649,
+            "height": 75.91,
+            "id": 1611,
+            "labels": [
+              {
+                "category": "text",
+                "confidence": 0.522,
+                "id": 1629,
+                "label": "S"
+              }
+            ],
+            "orientation": 0,
+            "width": 35.307,
+            "x": 1413.359,
+            "y": 900.389
+          },
+          {
+            "category": "text",
+            "classId": 0,
+            "classLabel": "text",
+            "confidence": 0.86,
+            "height": 30.4,
+            "id": 1609,
+            "labels": [
+              {
+                "category": "text",
+                "confidence": 0.996,
+                "id": 1642,
+                "label": "LAL"
+              }
+            ],
+            "orientation": 0,
+            "width": 58.063,
+            "x": 1467.838,
+            "y": 899.757
+          }
+        ],
+        "orientation": 0,
+        "width": 574.132,
+        "x": 953.415,
+        "y": 156.797,
+        "source_height": 1080,
+        "source_width": 1920
+      },
+      {
+        "classId": 0,
+        "classLabel": "person",
+        "confidence": 0.894,
+        "height": 455.256,
+        "id": 1596,
+        "inferId": 1,
+        "objects": [
+          {
+            "category": "text",
+            "classId": 0,
+            "classLabel": "text",
+            "confidence": 0.845,
+            "height": 28.366,
+            "id": 1615,
+            "labels": [
+              {
+                "category": "text",
+                "confidence": 0.999,
+                "id": 1640,
+                "label": "NOP"
+              }
+            ],
+            "orientation": 0,
+            "width": 66.335,
+            "x": 1469.141,
+            "y": 943.877
+          },
+          {
+            "category": "text",
+            "classId": 0,
+            "classLabel": "text",
+            "confidence": 0.909,
+            "height": 24.05,
+            "id": 1613,
+            "orientation": 0,
+            "width": 51.386,
+            "x": 1493.701,
+            "y": 860.878
+          },
+          {
+            "category": "text",
+            "classId": 0,
+            "classLabel": "text",
+            "confidence": 0.81,
+            "height": 27.761,
+            "id": 1616,
+            "labels": [
+              {
+                "category": "text",
+                "confidence": 0.998,
+                "id": 1636,
+                "label": "LAL"
+              }
+            ],
+            "orientation": 0,
+            "width": 59.585,
+            "x": 1470.475,
+            "y": 902.457
+          },
+          {
+            "category": "text",
+            "classId": 0,
+            "classLabel": "text",
+            "confidence": 0.88,
+            "height": 14.87,
+            "id": 1614,
+            "orientation": 0,
+            "width": 19.398,
+            "x": 1415.939,
+            "y": 961.384
+          }
+        ],
+        "orientation": 0,
+        "width": 391.596,
+        "x": 1169.951,
+        "y": 619.917,
+        "source_height": 1080,
+        "source_width": 1920
+      },
+      {
+        "category": "sports equipment",
+        "classId": 0,
+        "classLabel": "frisbee",
+        "confidence": 0.685,
+        "height": 132.03,
+        "id": 1644,
+        "orientation": 0,
+        "width": 424.378,
+        "x": 1412.398,
+        "y": 855.117,
+        "source_height": 1080,
+        "source_width": 1920
+      },
+      {
+        "classId": 0,
+        "classLabel": "person",
+        "confidence": 0.847,
+        "height": 1061.528,
+        "id": 1599,
+        "inferId": 1,
+        "orientation": 0,
+        "width": 338.09,
+        "x": 0,
+        "y": 18.471,
+        "source_height": 1080,
+        "source_width": 1920
+      },
+      {
+        "classId": 0,
+        "classLabel": "person",
+        "confidence": 0.938,
+        "height": 1044.608,
+        "id": 1594,
+        "inferId": 1,
+        "objects": [
+          {
+            "category": "text",
+            "classId": 0,
+            "classLabel": "text",
+            "confidence": 0.75,
+            "height": 319.726,
+            "id": 1628,
+            "labels": [
+              {
+                "category": "text",
+                "confidence": 0.992,
+                "id": 1634,
+                "label": "1"
+              }
+            ],
+            "orientation": 0,
+            "width": 127.781,
+            "x": 634.251,
+            "y": 691.95
+          }
+        ],
+        "orientation": 0,
+        "width": 573.102,
+        "x": 249.202,
+        "y": 34.714,
+        "source_height": 1080,
+        "source_width": 1920
+      },
+      {
+        "classId": 0,
+        "classLabel": "person",
+        "confidence": 0.891,
+        "height": 972.107,
+        "id": 1597,
+        "inferId": 1,
+        "objects": [
+          {
+            "category": "text",
+            "classId": 0,
+            "classLabel": "text",
+            "confidence": 0.625,
+            "height": 245.313,
+            "id": 1612,
+            "orientation": 0,
+            "width": 206.87,
+            "x": 679.186,
+            "y": 553.361
+          }
+        ],
+        "orientation": 0,
+        "width": 803.845,
+        "x": 491.837,
+        "y": 107.892,
+        "source_height": 1080,
+        "source_width": 1920
+      },
+      {
+        "classId": 0,
+        "classLabel": "person",
+        "confidence": 0.807,
+        "height": 459.876,
+        "id": 1600,
+        "inferId": 1,
+        "orientation": 0,
+        "width": 394.528,
+        "x": 814.195,
+        "y": 1.196,
+        "source_height": 1080,
+        "source_width": 1920
+      },
+      {
+        "classId": 0,
+        "classLabel": "person",
+        "confidence": 0.928,
+        "height": 1061.327,
+        "id": 1595,
+        "inferId": 1,
+        "objects": [
+          {
+            "category": "text",
+            "classId": 0,
+            "classLabel": "text",
+            "confidence": 0.872,
+            "height": 31.961,
+            "id": 1618,
+            "orientation": 0,
+            "width": 22.819,
+            "x": 1575.21,
+            "y": 942.297
+          },
+          {
+            "category": "text",
+            "classId": 0,
+            "classLabel": "text",
+            "confidence": 0.844,
+            "height": 28.551,
+            "id": 1621,
+            "labels": [
+              {
+                "category": "text",
+                "confidence": 0.999,
+                "id": 1639,
+                "label": "24"
+              }
+            ],
+            "orientation": 0,
+            "width": 36.89,
+            "x": 1696.789,
+            "y": 944.953
+          },
+          {
+            "category": "text",
+            "classId": 0,
+            "classLabel": "text",
+            "confidence": 0.808,
+            "height": 30.44,
+            "id": 1624,
+            "labels": [
+              {
+                "category": "text",
+                "confidence": 0.998,
+                "id": 1635,
+                "label": "AL"
+              }
+            ],
+            "orientation": 0,
+            "width": 36.557,
+            "x": 1495,
+            "y": 900.184
+          },
+          {
+            "category": "text",
+            "classId": 0,
+            "classLabel": "text",
+            "confidence": 0.867,
+            "height": 35.987,
+            "id": 1619,
+            "labels": [
+              {
+                "category": "text",
+                "confidence": 0.996,
+                "id": 1643,
+                "label": "11:04"
+              }
+            ],
+            "orientation": 0,
+            "width": 98.097,
+            "x": 1634.18,
+            "y": 897.412
+          },
+          {
+            "category": "text",
+            "classId": 0,
+            "classLabel": "text",
+            "confidence": 0.69,
+            "height": 26.735,
+            "id": 1627,
+            "labels": [
+              {
+                "category": "text",
+                "confidence": 0.997,
+                "id": 1630,
+                "label": "PLAY-IN"
+              }
+            ],
+            "orientation": 0,
+            "width": 52.293,
+            "x": 1594.857,
+            "y": 859.766
+          },
+          {
+            "category": "text",
+            "classId": 0,
+            "classLabel": "text",
+            "confidence": 0.84,
+            "height": 33.323,
+            "id": 1622,
+            "labels": [
+              {
+                "category": "text",
+                "confidence": 0.993,
+                "id": 1638,
+                "label": "OP"
+              }
+            ],
+            "orientation": 0,
+            "width": 43.429,
+            "x": 1495.281,
+            "y": 942.114
+          },
+          {
+            "category": "text",
+            "classId": 0,
+            "classLabel": "text",
+            "confidence": 0.897,
+            "height": 29.803,
+            "id": 1617,
+            "orientation": 0,
+            "width": 58.957,
+            "x": 1754.323,
+            "y": 920.343
+          },
+          {
+            "category": "text",
+            "classId": 0,
+            "classLabel": "text",
+            "confidence": 0.723,
+            "height": 27.688,
+            "id": 1625,
+            "labels": [
+              {
+                "category": "text",
+                "confidence": 0.976,
+                "id": 1632,
+                "label": "SoFi"
+              }
+            ],
+            "orientation": 0,
+            "width": 49.711,
+            "x": 1496.078,
+            "y": 858.014
+          },
+          {
+            "category": "text",
+            "classId": 0,
+            "classLabel": "text",
+            "confidence": 0.845,
+            "height": 31.461,
+            "id": 1620,
+            "labels": [
+              {
+                "category": "text",
+                "confidence": 0.935,
+                "id": 1641,
+                "label": "0"
+              }
+            ],
+            "orientation": 0,
+            "width": 23.436,
+            "x": 1575.494,
+            "y": 900.815
+          },
+          {
+            "category": "text",
+            "classId": 0,
+            "classLabel": "text",
+            "confidence": 0.813,
+            "height": 28.159,
+            "id": 1623,
+            "labels": [
+              {
+                "category": "text",
+                "confidence": 0.997,
+                "id": 1637,
+                "label": "TOURNAMENT"
+              }
+            ],
+            "orientation": 0,
+            "width": 85.22,
+            "x": 1646.048,
+            "y": 858.476
+          },
+          {
+            "category": "text",
+            "classId": 0,
+            "classLabel": "text",
+            "confidence": 0.696,
+            "height": 28.925,
+            "id": 1626,
+            "labels": [
+              {
+                "category": "text",
+                "confidence": 0.969,
+                "id": 1631,
+                "label": "1ST"
+              }
+            ],
+            "orientation": 0,
+            "width": 41.437,
+            "x": 1639.403,
+            "y": 942.971
+          }
+        ],
+        "orientation": 0,
+        "width": 425.186,
+        "x": 1494.738,
+        "y": 0,
+        "source_height": 1080,
+        "source_width": 1920
+      }
+    ],
+    "seconds": 0,
+    "source_height": 1080,
+    "source_id": "e934148f-0406-11ef-a9f5-0242ac110007",
+    "source_width": 1920,
+    "system_timestamp": 1714161320407915000,
+    "timestamp": 0,
+    "count": 1
+  },
+  {
+    "objects": [
+      {
+        "classId": 0,
+        "classLabel": "person",
+        "confidence": 0.873,
+        "height": 912.878,
+        "id": 1598,
+        "inferId": 1,
+        "objects": [
+          {
+            "category": "text",
+            "classId": 0,
+            "classLabel": "text",
+            "confidence": 0.731,
+            "height": 24.328,
+            "id": 1610,
+            "labels": [
+              {
+                "category": "text",
+                "confidence": 0.779,
+                "id": 1633,
+                "label": "Sol"
+              }
+            ],
+            "orientation": 0,
+            "width": 32.875,
+            "x": 1493.623,
+            "y": 859.939
+          },
+          {
+            "category": "text",
+            "classId": 0,
+            "classLabel": "text",
+            "confidence": 0.908,
+            "height": 33.938,
+            "id": 1608,
+            "orientation": 0,
+            "width": 59.731,
+            "x": 1466.77,
+            "y": 942.039
+          },
+          {
+            "category": "text",
+            "classId": 0,
+            "classLabel": "text",
+            "confidence": 0.649,
+            "height": 75.91,
+            "id": 1611,
+            "labels": [
+              {
+                "category": "text",
+                "confidence": 0.522,
+                "id": 1629,
+                "label": "S"
+              }
+            ],
+            "orientation": 0,
+            "width": 35.307,
+            "x": 1413.359,
+            "y": 900.389
+          },
+          {
+            "category": "text",
+            "classId": 0,
+            "classLabel": "text",
+            "confidence": 0.86,
+            "height": 30.4,
+            "id": 1609,
+            "labels": [
+              {
+                "category": "text",
+                "confidence": 0.996,
+                "id": 1642,
+                "label": "LAL"
+              }
+            ],
+            "orientation": 0,
+            "width": 58.063,
+            "x": 1467.838,
+            "y": 899.757
+          }
+        ],
+        "orientation": 0,
+        "width": 574.132,
+        "x": 953.415,
+        "y": 156.797,
+        "source_height": 1080,
+        "source_width": 1920
+      },
+      {
+        "classId": 0,
+        "classLabel": "person",
+        "confidence": 0.894,
+        "height": 455.256,
+        "id": 1596,
+        "inferId": 1,
+        "objects": [
+          {
+            "category": "text",
+            "classId": 0,
+            "classLabel": "text",
+            "confidence": 0.845,
+            "height": 28.366,
+            "id": 1615,
+            "labels": [
+              {
+                "category": "text",
+                "confidence": 0.999,
+                "id": 1640,
+                "label": "NOP"
+              }
+            ],
+            "orientation": 0,
+            "width": 66.335,
+            "x": 1469.141,
+            "y": 943.877
+          },
+          {
+            "category": "text",
+            "classId": 0,
+            "classLabel": "text",
+            "confidence": 0.909,
+            "height": 24.05,
+            "id": 1613,
+            "orientation": 0,
+            "width": 51.386,
+            "x": 1493.701,
+            "y": 860.878
+          },
+          {
+            "category": "text",
+            "classId": 0,
+            "classLabel": "text",
+            "confidence": 0.81,
+            "height": 27.761,
+            "id": 1616,
+            "labels": [
+              {
+                "category": "text",
+                "confidence": 0.998,
+                "id": 1636,
+                "label": "LAL"
+              }
+            ],
+            "orientation": 0,
+            "width": 59.585,
+            "x": 1470.475,
+            "y": 902.457
+          },
+          {
+            "category": "text",
+            "classId": 0,
+            "classLabel": "text",
+            "confidence": 0.88,
+            "height": 14.87,
+            "id": 1614,
+            "orientation": 0,
+            "width": 19.398,
+            "x": 1415.939,
+            "y": 961.384
+          }
+        ],
+        "orientation": 0,
+        "width": 391.596,
+        "x": 1169.951,
+        "y": 619.917,
+        "source_height": 1080,
+        "source_width": 1920
+      },
+      {
+        "category": "sports equipment",
+        "classId": 0,
+        "classLabel": "frisbee",
+        "confidence": 0.685,
+        "height": 132.03,
+        "id": 1644,
+        "orientation": 0,
+        "width": 424.378,
+        "x": 1412.398,
+        "y": 855.117,
+        "source_height": 1080,
+        "source_width": 1920
+      },
+      {
+        "classId": 0,
+        "classLabel": "person",
+        "confidence": 0.847,
+        "height": 1061.528,
+        "id": 1599,
+        "inferId": 1,
+        "orientation": 0,
+        "width": 338.09,
+        "x": 0,
+        "y": 18.471,
+        "source_height": 1080,
+        "source_width": 1920
+      },
+      {
+        "classId": 0,
+        "classLabel": "person",
+        "confidence": 0.938,
+        "height": 1044.608,
+        "id": 1594,
+        "inferId": 1,
+        "objects": [
+          {
+            "category": "text",
+            "classId": 0,
+            "classLabel": "text",
+            "confidence": 0.75,
+            "height": 319.726,
+            "id": 1628,
+            "labels": [
+              {
+                "category": "text",
+                "confidence": 0.992,
+                "id": 1634,
+                "label": "1"
+              }
+            ],
+            "orientation": 0,
+            "width": 127.781,
+            "x": 634.251,
+            "y": 691.95
+          }
+        ],
+        "orientation": 0,
+        "width": 573.102,
+        "x": 249.202,
+        "y": 34.714,
+        "source_height": 1080,
+        "source_width": 1920
+      },
+      {
+        "classId": 0,
+        "classLabel": "person",
+        "confidence": 0.891,
+        "height": 972.107,
+        "id": 1597,
+        "inferId": 1,
+        "objects": [
+          {
+            "category": "text",
+            "classId": 0,
+            "classLabel": "text",
+            "confidence": 0.625,
+            "height": 245.313,
+            "id": 1612,
+            "orientation": 0,
+            "width": 206.87,
+            "x": 679.186,
+            "y": 553.361
+          }
+        ],
+        "orientation": 0,
+        "width": 803.845,
+        "x": 491.837,
+        "y": 107.892,
+        "source_height": 1080,
+        "source_width": 1920
+      },
+      {
+        "classId": 0,
+        "classLabel": "person",
+        "confidence": 0.807,
+        "height": 459.876,
+        "id": 1600,
+        "inferId": 1,
+        "orientation": 0,
+        "width": 394.528,
+        "x": 814.195,
+        "y": 1.196,
+        "source_height": 1080,
+        "source_width": 1920
+      },
+      {
+        "classId": 0,
+        "classLabel": "person",
+        "confidence": 0.928,
+        "height": 1061.327,
+        "id": 1595,
+        "inferId": 1,
+        "objects": [
+          {
+            "category": "text",
+            "classId": 0,
+            "classLabel": "text",
+            "confidence": 0.872,
+            "height": 31.961,
+            "id": 1618,
+            "orientation": 0,
+            "width": 22.819,
+            "x": 1575.21,
+            "y": 942.297
+          },
+          {
+            "category": "text",
+            "classId": 0,
+            "classLabel": "text",
+            "confidence": 0.844,
+            "height": 28.551,
+            "id": 1621,
+            "labels": [
+              {
+                "category": "text",
+                "confidence": 0.999,
+                "id": 1639,
+                "label": "24"
+              }
+            ],
+            "orientation": 0,
+            "width": 36.89,
+            "x": 1696.789,
+            "y": 944.953
+          },
+          {
+            "category": "text",
+            "classId": 0,
+            "classLabel": "text",
+            "confidence": 0.808,
+            "height": 30.44,
+            "id": 1624,
+            "labels": [
+              {
+                "category": "text",
+                "confidence": 0.998,
+                "id": 1635,
+                "label": "AL"
+              }
+            ],
+            "orientation": 0,
+            "width": 36.557,
+            "x": 1495,
+            "y": 900.184
+          },
+          {
+            "category": "text",
+            "classId": 0,
+            "classLabel": "text",
+            "confidence": 0.867,
+            "height": 35.987,
+            "id": 1619,
+            "labels": [
+              {
+                "category": "text",
+                "confidence": 0.996,
+                "id": 1643,
+                "label": "11:04"
+              }
+            ],
+            "orientation": 0,
+            "width": 98.097,
+            "x": 1634.18,
+            "y": 897.412
+          },
+          {
+            "category": "text",
+            "classId": 0,
+            "classLabel": "text",
+            "confidence": 0.69,
+            "height": 26.735,
+            "id": 1627,
+            "labels": [
+              {
+                "category": "text",
+                "confidence": 0.997,
+                "id": 1630,
+                "label": "PLAY-IN"
+              }
+            ],
+            "orientation": 0,
+            "width": 52.293,
+            "x": 1594.857,
+            "y": 859.766
+          },
+          {
+            "category": "text",
+            "classId": 0,
+            "classLabel": "text",
+            "confidence": 0.84,
+            "height": 33.323,
+            "id": 1622,
+            "labels": [
+              {
+                "category": "text",
+                "confidence": 0.993,
+                "id": 1638,
+                "label": "OP"
+              }
+            ],
+            "orientation": 0,
+            "width": 43.429,
+            "x": 1495.281,
+            "y": 942.114
+          },
+          {
+            "category": "text",
+            "classId": 0,
+            "classLabel": "text",
+            "confidence": 0.897,
+            "height": 29.803,
+            "id": 1617,
+            "orientation": 0,
+            "width": 58.957,
+            "x": 1754.323,
+            "y": 920.343
+          },
+          {
+            "category": "text",
+            "classId": 0,
+            "classLabel": "text",
+            "confidence": 0.723,
+            "height": 27.688,
+            "id": 1625,
+            "labels": [
+              {
+                "category": "text",
+                "confidence": 0.976,
+                "id": 1632,
+                "label": "SoFi"
+              }
+            ],
+            "orientation": 0,
+            "width": 49.711,
+            "x": 1496.078,
+            "y": 858.014
+          },
+          {
+            "category": "text",
+            "classId": 0,
+            "classLabel": "text",
+            "confidence": 0.845,
+            "height": 31.461,
+            "id": 1620,
+            "labels": [
+              {
+                "category": "text",
+                "confidence": 0.935,
+                "id": 1641,
+                "label": "0"
+              }
+            ],
+            "orientation": 0,
+            "width": 23.436,
+            "x": 1575.494,
+            "y": 900.815
+          },
+          {
+            "category": "text",
+            "classId": 0,
+            "classLabel": "text",
+            "confidence": 0.813,
+            "height": 28.159,
+            "id": 1623,
+            "labels": [
+              {
+                "category": "text",
+                "confidence": 0.997,
+                "id": 1637,
+                "label": "TOURNAMENT"
+              }
+            ],
+            "orientation": 0,
+            "width": 85.22,
+            "x": 1646.048,
+            "y": 858.476
+          },
+          {
+            "category": "text",
+            "classId": 0,
+            "classLabel": "text",
+            "confidence": 0.696,
+            "height": 28.925,
+            "id": 1626,
+            "labels": [
+              {
+                "category": "text",
+                "confidence": 0.969,
+                "id": 1631,
+                "label": "1ST"
+              }
+            ],
+            "orientation": 0,
+            "width": 41.437,
+            "x": 1639.403,
+            "y": 942.971
+          }
+        ],
+        "orientation": 0,
+        "width": 425.186,
+        "x": 1494.738,
+        "y": 0,
+        "source_height": 1080,
+        "source_width": 1920
+      }
+    ],
+    "seconds": 0,
+    "source_height": 1080,
+    "source_id": "e934148f-0406-11ef-a9f5-0242ac110007",
+    "source_width": 1920,
+    "system_timestamp": 1714161320407915000,
+    "timestamp": 0,
+    "count": 1
+  }
+]

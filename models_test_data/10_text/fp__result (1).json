@@ -1,0 +1,1400 @@
+[
+  {
+    "objects": [
+      {
+        "classId": 0,
+        "classLabel": "person",
+        "confidence": 0.911,
+        "height": 323.753,
+        "id": 1525,
+        "inferId": 1,
+        "objects": [
+          {
+            "category": "text",
+            "classId": 0,
+            "classLabel": "text",
+            "confidence": 0.788,
+            "height": 14.761,
+            "id": 1567,
+            "labels": [
+              {
+                "category": "text",
+                "confidence": 0.622,
+                "id": 1588,
+                "label": "EPT"
+              }
+            ],
+            "orientation": 0,
+            "width": 15.175,
+            "x": 1170.33,
+            "y": 268.043
+          },
+          {
+            "category": "text",
+            "classId": 0,
+            "classLabel": "text",
+            "confidence": 0.65,
+            "height": 12.245,
+            "id": 1568,
+            "labels": [
+              {
+                "category": "text",
+                "confidence": 0.88,
+                "id": 1579,
+                "label": "J"
+              }
+            ],
+            "orientation": 0,
+            "width": 9.547,
+            "x": 1160.445,
+            "y": 268.315
+          }
+        ],
+        "orientation": 0,
+        "width": 113.758,
+        "x": 1081.583,
+        "y": 140.744,
+        "source_height": 1080,
+        "source_width": 1920
+      },
+      {
+        "category": "sports equipment",
+        "classId": 9,
+        "classLabel": "tennis racket",
+        "confidence": 0.714,
+        "height": 42.7,
+        "id": 1592,
+        "orientation": 0,
+        "width": 70.904,
+        "x": 1567,
+        "y": 808.865,
+        "source_height": 1080,
+        "source_width": 1920
+      },
+      {
+        "classId": 0,
+        "classLabel": "person",
+        "confidence": 0.856,
+        "height": 336.455,
+        "id": 1531,
+        "inferId": 1,
+        "orientation": 0,
+        "width": 103.873,
+        "x": 1162.989,
+        "y": 128.722,
+        "source_height": 1080,
+        "source_width": 1920
+      },
+      {
+        "classId": 0,
+        "classLabel": "person",
+        "confidence": 0.966,
+        "height": 400.674,
+        "id": 1520,
+        "inferId": 1,
+        "orientation": 0,
+        "width": 142.303,
+        "x": 913.712,
+        "y": 678.584,
+        "source_height": 1080,
+        "source_width": 1920
+      },
+      {
+        "classId": 0,
+        "classLabel": "person",
+        "confidence": 0.91,
+        "height": 290.555,
+        "id": 1526,
+        "inferId": 1,
+        "orientation": 0,
+        "width": 132.105,
+        "x": 168.634,
+        "y": 194.369,
+        "source_height": 1080,
+        "source_width": 1920
+      },
+      {
+        "classId": 0,
+        "classLabel": "person",
+        "confidence": 0.853,
+        "height": 329.274,
+        "id": 1532,
+        "inferId": 1,
+        "orientation": 0,
+        "width": 105.277,
+        "x": 970.407,
+        "y": 121.819,
+        "source_height": 1080,
+        "source_width": 1920
+      },
+      {
+        "classId": 0,
+        "classLabel": "person",
+        "confidence": 0.953,
+        "height": 404.883,
+        "id": 1521,
+        "inferId": 1,
+        "orientation": 0,
+        "width": 148.827,
+        "x": 657.687,
+        "y": 672.498,
+        "source_height": 1080,
+        "source_width": 1920
+      },
+      {
+        "category": "sports equipment",
+        "classId": 0,
+        "classLabel": "frisbee",
+        "confidence": 0.692,
+        "height": 116.742,
+        "id": 1593,
+        "orientation": 0,
+        "width": 423.638,
+        "x": 1411.322,
+        "y": 866.986,
+        "source_height": 1080,
+        "source_width": 1920
+      },
+      {
+        "classId": 0,
+        "classLabel": "person",
+        "confidence": 0.885,
+        "height": 189.64,
+        "id": 1527,
+        "inferId": 1,
+        "orientation": 0,
+        "width": 114.155,
+        "x": 547.901,
+        "y": 886.997,
+        "source_height": 1080,
+        "source_width": 1920
+      },
+      {
+        "classId": 0,
+        "classLabel": "person",
+        "confidence": 0.819,
+        "height": 383.965,
+        "id": 1533,
+        "inferId": 1,
+        "orientation": 0,
+        "width": 138.425,
+        "x": 681.282,
+        "y": 159.553,
+        "source_height": 1080,
+        "source_width": 1920
+      },
+      {
+        "classId": 0,
+        "classLabel": "person",
+        "confidence": 0.926,
+        "height": 319.66,
+        "id": 1522,
+        "inferId": 1,
+        "objects": [
+          {
+            "category": "text",
+            "classId": 0,
+            "classLabel": "text",
+            "confidence": 0.628,
+            "height": 17.249,
+            "id": 1575,
+            "labels": [
+              {
+                "category": "text",
+                "confidence": 0.943,
+                "id": 1576,
+                "label": "AV-"
+              }
+            ],
+            "orientation": 0,
+            "width": 18.248,
+            "x": 1610.756,
+            "y": 861.896
+          },
+          {
+            "category": "text",
+            "classId": 0,
+            "classLabel": "text",
+            "confidence": 0.854,
+            "height": 20.147,
+            "id": 1570,
+            "orientation": 0,
+            "width": 45.701,
+            "x": 1647.298,
+            "y": 859.821
+          },
+          {
+            "category": "text",
+            "classId": 0,
+            "classLabel": "text",
+            "confidence": 0.799,
+            "height": 18.177,
+            "id": 1571,
+            "labels": [
+              {
+                "category": "text",
+                "confidence": 0.998,
+                "id": 1589,
+                "label": "IN"
+              }
+            ],
+            "orientation": 0,
+            "width": 16.913,
+            "x": 1628.801,
+            "y": 861.542
+          },
+          {
+            "category": "text",
+            "classId": 0,
+            "classLabel": "text",
+            "confidence": 0.685,
+            "height": 17.423,
+            "id": 1572,
+            "labels": [
+              {
+                "category": "text",
+                "confidence": 0.929,
+                "id": 1582,
+                "label": "PI"
+              }
+            ],
+            "orientation": 0,
+            "width": 13.788,
+            "x": 1597.194,
+            "y": 862.039
+          },
+          {
+            "category": "text",
+            "classId": 0,
+            "classLabel": "text",
+            "confidence": 0.668,
+            "height": 16.839,
+            "id": 1573,
+            "labels": [
+              {
+                "category": "text",
+                "confidence": 0.648,
+                "id": 1580,
+                "label": "e"
+              }
+            ],
+            "orientation": 0,
+            "width": 10.461,
+            "x": 1580.673,
+            "y": 862.575
+          },
+          {
+            "category": "text",
+            "classId": 0,
+            "classLabel": "text",
+            "confidence": 0.648,
+            "height": 18.192,
+            "id": 1574,
+            "labels": [
+              {
+                "category": "text",
+                "confidence": 0.886,
+                "id": 1578,
+                "label": "PLAY-IN"
+              }
+            ],
+            "orientation": 0,
+            "width": 48.112,
+            "x": 1594.665,
+            "y": 861.807
+          }
+        ],
+        "orientation": 0,
+        "width": 156.13,
+        "x": 1537.439,
+        "y": 560.272,
+        "source_height": 1080,
+        "source_width": 1920
+      },
+      {
+        "classId": 0,
+        "classLabel": "person",
+        "confidence": 0.878,
+        "height": 207.528,
+        "id": 1528,
+        "inferId": 1,
+        "orientation": 0,
+        "width": 218.914,
+        "x": 100.498,
+        "y": 872.471,
+        "source_height": 1080,
+        "source_width": 1920
+      },
+      {
+        "classId": 0,
+        "classLabel": "person",
+        "confidence": 0.811,
+        "height": 245.951,
+        "id": 1534,
+        "inferId": 1,
+        "orientation": 0,
+        "width": 91.249,
+        "x": 1574.661,
+        "y": 208.479,
+        "source_height": 1080,
+        "source_width": 1920
+      },
+      {
+        "classId": 0,
+        "classLabel": "person",
+        "confidence": 0.926,
+        "height": 374.727,
+        "id": 1523,
+        "inferId": 1,
+        "objects": [
+          {
+            "category": "text",
+            "classId": 0,
+            "classLabel": "text",
+            "confidence": 0.74,
+            "height": 76.523,
+            "id": 1569,
+            "labels": [
+              {
+                "category": "text",
+                "confidence": 0.146,
+                "id": 1584,
+                "label": "UN"
+              }
+            ],
+            "orientation": 0,
+            "width": 68.502,
+            "x": 387.497,
+            "y": 590.407
+          }
+        ],
+        "orientation": 0,
+        "width": 194.139,
+        "x": 262.309,
+        "y": 391.022,
+        "source_height": 1080,
+        "source_width": 1920
+      },
+      {
+        "classId": 0,
+        "classLabel": "person",
+        "confidence": 0.872,
+        "height": 278.938,
+        "id": 1529,
+        "inferId": 1,
+        "objects": [
+          {
+            "category": "text",
+            "classId": 0,
+            "classLabel": "text",
+            "confidence": 0.719,
+            "height": 19.767,
+            "id": 1566,
+            "labels": [
+              {
+                "category": "text",
+                "confidence": 0.513,
+                "id": 1583,
+                "label": "LAKER"
+              }
+            ],
+            "orientation": 0,
+            "width": 50.322,
+            "x": 1534.889,
+            "y": 350.117
+          }
+        ],
+        "orientation": 0,
+        "width": 142.841,
+        "x": 1475.786,
+        "y": 266.216,
+        "source_height": 1080,
+        "source_width": 1920
+      },
+      {
+        "classId": 0,
+        "classLabel": "person",
+        "confidence": 0.914,
+        "height": 340.323,
+        "id": 1524,
+        "inferId": 1,
+        "orientation": 0,
+        "width": 118.082,
+        "x": 831.207,
+        "y": 115.22,
+        "source_height": 1080,
+        "source_width": 1920
+      },
+      {
+        "classId": 0,
+        "classLabel": "person",
+        "confidence": 0.86,
+        "height": 125.465,
+        "id": 1530,
+        "inferId": 1,
+        "objects": [
+          {
+            "category": "text",
+            "classId": 0,
+            "classLabel": "text",
+            "confidence": 0.683,
+            "height": 28.834,
+            "id": 1564,
+            "labels": [
+              {
+                "category": "text",
+                "confidence": 0.915,
+                "id": 1581,
+                "label": "1"
+              }
+            ],
+            "orientation": 0,
+            "width": 16.375,
+            "x": 1639.963,
+            "y": 901.574
+          },
+          {
+            "category": "text",
+            "classId": 0,
+            "classLabel": "text",
+            "confidence": 0.915,
+            "height": 23.668,
+            "id": 1553,
+            "orientation": 0,
+            "width": 36.424,
+            "x": 1695.386,
+            "y": 948.294
+          },
+          {
+            "category": "text",
+            "classId": 0,
+            "classLabel": "text",
+            "confidence": 0.851,
+            "height": 22.897,
+            "id": 1559,
+            "labels": [
+              {
+                "category": "text",
+                "confidence": 0.401,
+                "id": 1591,
+                "label": "SoFi#"
+              }
+            ],
+            "orientation": 0,
+            "width": 77.392,
+            "x": 1493.991,
+            "y": 862.424
+          },
+          {
+            "category": "text",
+            "classId": 0,
+            "classLabel": "text",
+            "confidence": 0.637,
+            "height": 21.775,
+            "id": 1565,
+            "labels": [
+              {
+                "category": "text",
+                "confidence": 0.718,
+                "id": 1577,
+                "label": "S"
+              }
+            ],
+            "orientation": 0,
+            "width": 14.599,
+            "x": 1579.691,
+            "y": 862.279
+          },
+          {
+            "category": "text",
+            "classId": 0,
+            "classLabel": "text",
+            "confidence": 0.904,
+            "height": 28.731,
+            "id": 1554,
+            "orientation": 0,
+            "width": 71.419,
+            "x": 1464.935,
+            "y": 944.081
+          },
+          {
+            "category": "text",
+            "classId": 0,
+            "classLabel": "text",
+            "confidence": 0.81,
+            "height": 15.544,
+            "id": 1560,
+            "labels": [
+              {
+                "category": "text",
+                "confidence": 0.987,
+                "id": 1590,
+                "label": "NBA"
+              }
+            ],
+            "orientation": 0,
+            "width": 17.095,
+            "x": 1418,
+            "y": 961.16
+          },
+          {
+            "category": "text",
+            "classId": 0,
+            "classLabel": "text",
+            "confidence": 0.895,
+            "height": 21.735,
+            "id": 1555,
+            "orientation": 0,
+            "width": 54.023,
+            "x": 1756.697,
+            "y": 925.147
+          },
+          {
+            "category": "text",
+            "classId": 0,
+            "classLabel": "text",
+            "confidence": 0.77,
+            "height": 20.527,
+            "id": 1561,
+            "labels": [
+              {
+                "category": "text",
+                "confidence": 0.991,
+                "id": 1587,
+                "label": "1ST"
+              }
+            ],
+            "orientation": 0,
+            "width": 39.426,
+            "x": 1642.641,
+            "y": 946.825
+          },
+          {
+            "category": "text",
+            "classId": 0,
+            "classLabel": "text",
+            "confidence": 0.942,
+            "height": 30.521,
+            "id": 1550,
+            "orientation": 0,
+            "width": 69.008,
+            "x": 1465.716,
+            "y": 900.317
+          },
+          {
+            "category": "text",
+            "classId": 0,
+            "classLabel": "text",
+            "confidence": 0.883,
+            "height": 31.085,
+            "id": 1556,
+            "orientation": 0,
+            "width": 29.355,
+            "x": 1573.965,
+            "y": 900.633
+          },
+          {
+            "category": "text",
+            "classId": 0,
+            "classLabel": "text",
+            "confidence": 0.757,
+            "height": 23.276,
+            "id": 1562,
+            "labels": [
+              {
+                "category": "text",
+                "confidence": 0.994,
+                "id": 1586,
+                "label": "LAY-INTOURNAMENT"
+              }
+            ],
+            "orientation": 0,
+            "width": 124.767,
+            "x": 1602.699,
+            "y": 862.737
+          },
+          {
+            "category": "text",
+            "classId": 0,
+            "classLabel": "text",
+            "confidence": 0.939,
+            "height": 29.204,
+            "id": 1551,
+            "orientation": 0,
+            "width": 86.856,
+            "x": 1643.332,
+            "y": 900.933
+          },
+          {
+            "category": "text",
+            "classId": 0,
+            "classLabel": "text",
+            "confidence": 0.881,
+            "height": 29.945,
+            "id": 1557,
+            "orientation": 0,
+            "width": 28.221,
+            "x": 1574.404,
+            "y": 943.782
+          },
+          {
+            "category": "text",
+            "classId": 0,
+            "classLabel": "text",
+            "confidence": 0.756,
+            "height": 23.033,
+            "id": 1563,
+            "labels": [
+              {
+                "category": "text",
+                "confidence": 0.965,
+                "id": 1585,
+                "label": "1"
+              }
+            ],
+            "orientation": 0,
+            "width": 14.758,
+            "x": 1639.01,
+            "y": 947.246
+          },
+          {
+            "category": "text",
+            "classId": 0,
+            "classLabel": "text",
+            "confidence": 0.932,
+            "height": 13.181,
+            "id": 1552,
+            "orientation": 0,
+            "width": 59.749,
+            "x": 1752.707,
+            "y": 962.79
+          },
+          {
+            "category": "text",
+            "classId": 0,
+            "classLabel": "text",
+            "confidence": 0.861,
+            "height": 21.624,
+            "id": 1558,
+            "orientation": 0,
+            "width": 45.015,
+            "x": 1594.181,
+            "y": 863.227
+          }
+        ],
+        "orientation": 0,
+        "width": 415.93,
+        "x": 1404.72,
+        "y": 857.78,
+        "source_height": 1080,
+        "source_width": 1920
+      }
+    ],
+    "seconds": 0,
+    "source_height": 1080,
+    "source_id": "dafcd6ee-0406-11ef-a9f5-0242ac110007",
+    "source_width": 1920,
+    "system_timestamp": 1714161296736914000,
+    "timestamp": 0,
+    "count": 1
+  },
+  {
+    "objects": [
+      {
+        "classId": 0,
+        "classLabel": "person",
+        "confidence": 0.911,
+        "height": 323.753,
+        "id": 1525,
+        "inferId": 1,
+        "objects": [
+          {
+            "category": "text",
+            "classId": 0,
+            "classLabel": "text",
+            "confidence": 0.788,
+            "height": 14.761,
+            "id": 1567,
+            "labels": [
+              {
+                "category": "text",
+                "confidence": 0.622,
+                "id": 1588,
+                "label": "EPT"
+              }
+            ],
+            "orientation": 0,
+            "width": 15.175,
+            "x": 1170.33,
+            "y": 268.043
+          },
+          {
+            "category": "text",
+            "classId": 0,
+            "classLabel": "text",
+            "confidence": 0.65,
+            "height": 12.245,
+            "id": 1568,
+            "labels": [
+              {
+                "category": "text",
+                "confidence": 0.88,
+                "id": 1579,
+                "label": "J"
+              }
+            ],
+            "orientation": 0,
+            "width": 9.547,
+            "x": 1160.445,
+            "y": 268.315
+          }
+        ],
+        "orientation": 0,
+        "width": 113.758,
+        "x": 1081.583,
+        "y": 140.744,
+        "source_height": 1080,
+        "source_width": 1920
+      },
+      {
+        "category": "sports equipment",
+        "classId": 9,
+        "classLabel": "tennis racket",
+        "confidence": 0.714,
+        "height": 42.7,
+        "id": 1592,
+        "orientation": 0,
+        "width": 70.904,
+        "x": 1567,
+        "y": 808.865,
+        "source_height": 1080,
+        "source_width": 1920
+      },
+      {
+        "classId": 0,
+        "classLabel": "person",
+        "confidence": 0.856,
+        "height": 336.455,
+        "id": 1531,
+        "inferId": 1,
+        "orientation": 0,
+        "width": 103.873,
+        "x": 1162.989,
+        "y": 128.722,
+        "source_height": 1080,
+        "source_width": 1920
+      },
+      {
+        "classId": 0,
+        "classLabel": "person",
+        "confidence": 0.966,
+        "height": 400.674,
+        "id": 1520,
+        "inferId": 1,
+        "orientation": 0,
+        "width": 142.303,
+        "x": 913.712,
+        "y": 678.584,
+        "source_height": 1080,
+        "source_width": 1920
+      },
+      {
+        "classId": 0,
+        "classLabel": "person",
+        "confidence": 0.91,
+        "height": 290.555,
+        "id": 1526,
+        "inferId": 1,
+        "orientation": 0,
+        "width": 132.105,
+        "x": 168.634,
+        "y": 194.369,
+        "source_height": 1080,
+        "source_width": 1920
+      },
+      {
+        "classId": 0,
+        "classLabel": "person",
+        "confidence": 0.853,
+        "height": 329.274,
+        "id": 1532,
+        "inferId": 1,
+        "orientation": 0,
+        "width": 105.277,
+        "x": 970.407,
+        "y": 121.819,
+        "source_height": 1080,
+        "source_width": 1920
+      },
+      {
+        "classId": 0,
+        "classLabel": "person",
+        "confidence": 0.953,
+        "height": 404.883,
+        "id": 1521,
+        "inferId": 1,
+        "orientation": 0,
+        "width": 148.827,
+        "x": 657.687,
+        "y": 672.498,
+        "source_height": 1080,
+        "source_width": 1920
+      },
+      {
+        "category": "sports equipment",
+        "classId": 0,
+        "classLabel": "frisbee",
+        "confidence": 0.692,
+        "height": 116.742,
+        "id": 1593,
+        "orientation": 0,
+        "width": 423.638,
+        "x": 1411.322,
+        "y": 866.986,
+        "source_height": 1080,
+        "source_width": 1920
+      },
+      {
+        "classId": 0,
+        "classLabel": "person",
+        "confidence": 0.885,
+        "height": 189.64,
+        "id": 1527,
+        "inferId": 1,
+        "orientation": 0,
+        "width": 114.155,
+        "x": 547.901,
+        "y": 886.997,
+        "source_height": 1080,
+        "source_width": 1920
+      },
+      {
+        "classId": 0,
+        "classLabel": "person",
+        "confidence": 0.819,
+        "height": 383.965,
+        "id": 1533,
+        "inferId": 1,
+        "orientation": 0,
+        "width": 138.425,
+        "x": 681.282,
+        "y": 159.553,
+        "source_height": 1080,
+        "source_width": 1920
+      },
+      {
+        "classId": 0,
+        "classLabel": "person",
+        "confidence": 0.926,
+        "height": 319.66,
+        "id": 1522,
+        "inferId": 1,
+        "objects": [
+          {
+            "category": "text",
+            "classId": 0,
+            "classLabel": "text",
+            "confidence": 0.628,
+            "height": 17.249,
+            "id": 1575,
+            "labels": [
+              {
+                "category": "text",
+                "confidence": 0.943,
+                "id": 1576,
+                "label": "AV-"
+              }
+            ],
+            "orientation": 0,
+            "width": 18.248,
+            "x": 1610.756,
+            "y": 861.896
+          },
+          {
+            "category": "text",
+            "classId": 0,
+            "classLabel": "text",
+            "confidence": 0.854,
+            "height": 20.147,
+            "id": 1570,
+            "orientation": 0,
+            "width": 45.701,
+            "x": 1647.298,
+            "y": 859.821
+          },
+          {
+            "category": "text",
+            "classId": 0,
+            "classLabel": "text",
+            "confidence": 0.799,
+            "height": 18.177,
+            "id": 1571,
+            "labels": [
+              {
+                "category": "text",
+                "confidence": 0.998,
+                "id": 1589,
+                "label": "IN"
+              }
+            ],
+            "orientation": 0,
+            "width": 16.913,
+            "x": 1628.801,
+            "y": 861.542
+          },
+          {
+            "category": "text",
+            "classId": 0,
+            "classLabel": "text",
+            "confidence": 0.685,
+            "height": 17.423,
+            "id": 1572,
+            "labels": [
+              {
+                "category": "text",
+                "confidence": 0.929,
+                "id": 1582,
+                "label": "PI"
+              }
+            ],
+            "orientation": 0,
+            "width": 13.788,
+            "x": 1597.194,
+            "y": 862.039
+          },
+          {
+            "category": "text",
+            "classId": 0,
+            "classLabel": "text",
+            "confidence": 0.668,
+            "height": 16.839,
+            "id": 1573,
+            "labels": [
+              {
+                "category": "text",
+                "confidence": 0.648,
+                "id": 1580,
+                "label": "e"
+              }
+            ],
+            "orientation": 0,
+            "width": 10.461,
+            "x": 1580.673,
+            "y": 862.575
+          },
+          {
+            "category": "text",
+            "classId": 0,
+            "classLabel": "text",
+            "confidence": 0.648,
+            "height": 18.192,
+            "id": 1574,
+            "labels": [
+              {
+                "category": "text",
+                "confidence": 0.886,
+                "id": 1578,
+                "label": "PLAY-IN"
+              }
+            ],
+            "orientation": 0,
+            "width": 48.112,
+            "x": 1594.665,
+            "y": 861.807
+          }
+        ],
+        "orientation": 0,
+        "width": 156.13,
+        "x": 1537.439,
+        "y": 560.272,
+        "source_height": 1080,
+        "source_width": 1920
+      },
+      {
+        "classId": 0,
+        "classLabel": "person",
+        "confidence": 0.878,
+        "height": 207.528,
+        "id": 1528,
+        "inferId": 1,
+        "orientation": 0,
+        "width": 218.914,
+        "x": 100.498,
+        "y": 872.471,
+        "source_height": 1080,
+        "source_width": 1920
+      },
+      {
+        "classId": 0,
+        "classLabel": "person",
+        "confidence": 0.811,
+        "height": 245.951,
+        "id": 1534,
+        "inferId": 1,
+        "orientation": 0,
+        "width": 91.249,
+        "x": 1574.661,
+        "y": 208.479,
+        "source_height": 1080,
+        "source_width": 1920
+      },
+      {
+        "classId": 0,
+        "classLabel": "person",
+        "confidence": 0.926,
+        "height": 374.727,
+        "id": 1523,
+        "inferId": 1,
+        "objects": [
+          {
+            "category": "text",
+            "classId": 0,
+            "classLabel": "text",
+            "confidence": 0.74,
+            "height": 76.523,
+            "id": 1569,
+            "labels": [
+              {
+                "category": "text",
+                "confidence": 0.146,
+                "id": 1584,
+                "label": "UN"
+              }
+            ],
+            "orientation": 0,
+            "width": 68.502,
+            "x": 387.497,
+            "y": 590.407
+          }
+        ],
+        "orientation": 0,
+        "width": 194.139,
+        "x": 262.309,
+        "y": 391.022,
+        "source_height": 1080,
+        "source_width": 1920
+      },
+      {
+        "classId": 0,
+        "classLabel": "person",
+        "confidence": 0.872,
+        "height": 278.938,
+        "id": 1529,
+        "inferId": 1,
+        "objects": [
+          {
+            "category": "text",
+            "classId": 0,
+            "classLabel": "text",
+            "confidence": 0.719,
+            "height": 19.767,
+            "id": 1566,
+            "labels": [
+              {
+                "category": "text",
+                "confidence": 0.513,
+                "id": 1583,
+                "label": "LAKER"
+              }
+            ],
+            "orientation": 0,
+            "width": 50.322,
+            "x": 1534.889,
+            "y": 350.117
+          }
+        ],
+        "orientation": 0,
+        "width": 142.841,
+        "x": 1475.786,
+        "y": 266.216,
+        "source_height": 1080,
+        "source_width": 1920
+      },
+      {
+        "classId": 0,
+        "classLabel": "person",
+        "confidence": 0.914,
+        "height": 340.323,
+        "id": 1524,
+        "inferId": 1,
+        "orientation": 0,
+        "width": 118.082,
+        "x": 831.207,
+        "y": 115.22,
+        "source_height": 1080,
+        "source_width": 1920
+      },
+      {
+        "classId": 0,
+        "classLabel": "person",
+        "confidence": 0.86,
+        "height": 125.465,
+        "id": 1530,
+        "inferId": 1,
+        "objects": [
+          {
+            "category": "text",
+            "classId": 0,
+            "classLabel": "text",
+            "confidence": 0.683,
+            "height": 28.834,
+            "id": 1564,
+            "labels": [
+              {
+                "category": "text",
+                "confidence": 0.915,
+                "id": 1581,
+                "label": "1"
+              }
+            ],
+            "orientation": 0,
+            "width": 16.375,
+            "x": 1639.963,
+            "y": 901.574
+          },
+          {
+            "category": "text",
+            "classId": 0,
+            "classLabel": "text",
+            "confidence": 0.915,
+            "height": 23.668,
+            "id": 1553,
+            "orientation": 0,
+            "width": 36.424,
+            "x": 1695.386,
+            "y": 948.294
+          },
+          {
+            "category": "text",
+            "classId": 0,
+            "classLabel": "text",
+            "confidence": 0.851,
+            "height": 22.897,
+            "id": 1559,
+            "labels": [
+              {
+                "category": "text",
+                "confidence": 0.401,
+                "id": 1591,
+                "label": "SoFi#"
+              }
+            ],
+            "orientation": 0,
+            "width": 77.392,
+            "x": 1493.991,
+            "y": 862.424
+          },
+          {
+            "category": "text",
+            "classId": 0,
+            "classLabel": "text",
+            "confidence": 0.637,
+            "height": 21.775,
+            "id": 1565,
+            "labels": [
+              {
+                "category": "text",
+                "confidence": 0.718,
+                "id": 1577,
+                "label": "S"
+              }
+            ],
+            "orientation": 0,
+            "width": 14.599,
+            "x": 1579.691,
+            "y": 862.279
+          },
+          {
+            "category": "text",
+            "classId": 0,
+            "classLabel": "text",
+            "confidence": 0.904,
+            "height": 28.731,
+            "id": 1554,
+            "orientation": 0,
+            "width": 71.419,
+            "x": 1464.935,
+            "y": 944.081
+          },
+          {
+            "category": "text",
+            "classId": 0,
+            "classLabel": "text",
+            "confidence": 0.81,
+            "height": 15.544,
+            "id": 1560,
+            "labels": [
+              {
+                "category": "text",
+                "confidence": 0.987,
+                "id": 1590,
+                "label": "NBA"
+              }
+            ],
+            "orientation": 0,
+            "width": 17.095,
+            "x": 1418,
+            "y": 961.16
+          },
+          {
+            "category": "text",
+            "classId": 0,
+            "classLabel": "text",
+            "confidence": 0.895,
+            "height": 21.735,
+            "id": 1555,
+            "orientation": 0,
+            "width": 54.023,
+            "x": 1756.697,
+            "y": 925.147
+          },
+          {
+            "category": "text",
+            "classId": 0,
+            "classLabel": "text",
+            "confidence": 0.77,
+            "height": 20.527,
+            "id": 1561,
+            "labels": [
+              {
+                "category": "text",
+                "confidence": 0.991,
+                "id": 1587,
+                "label": "1ST"
+              }
+            ],
+            "orientation": 0,
+            "width": 39.426,
+            "x": 1642.641,
+            "y": 946.825
+          },
+          {
+            "category": "text",
+            "classId": 0,
+            "classLabel": "text",
+            "confidence": 0.942,
+            "height": 30.521,
+            "id": 1550,
+            "orientation": 0,
+            "width": 69.008,
+            "x": 1465.716,
+            "y": 900.317
+          },
+          {
+            "category": "text",
+            "classId": 0,
+            "classLabel": "text",
+            "confidence": 0.883,
+            "height": 31.085,
+            "id": 1556,
+            "orientation": 0,
+            "width": 29.355,
+            "x": 1573.965,
+            "y": 900.633
+          },
+          {
+            "category": "text",
+            "classId": 0,
+            "classLabel": "text",
+            "confidence": 0.757,
+            "height": 23.276,
+            "id": 1562,
+            "labels": [
+              {
+                "category": "text",
+                "confidence": 0.994,
+                "id": 1586,
+                "label": "LAY-INTOURNAMENT"
+              }
+            ],
+            "orientation": 0,
+            "width": 124.767,
+            "x": 1602.699,
+            "y": 862.737
+          },
+          {
+            "category": "text",
+            "classId": 0,
+            "classLabel": "text",
+            "confidence": 0.939,
+            "height": 29.204,
+            "id": 1551,
+            "orientation": 0,
+            "width": 86.856,
+            "x": 1643.332,
+            "y": 900.933
+          },
+          {
+            "category": "text",
+            "classId": 0,
+            "classLabel": "text",
+            "confidence": 0.881,
+            "height": 29.945,
+            "id": 1557,
+            "orientation": 0,
+            "width": 28.221,
+            "x": 1574.404,
+            "y": 943.782
+          },
+          {
+            "category": "text",
+            "classId": 0,
+            "classLabel": "text",
+            "confidence": 0.756,
+            "height": 23.033,
+            "id": 1563,
+            "labels": [
+              {
+                "category": "text",
+                "confidence": 0.965,
+                "id": 1585,
+                "label": "1"
+              }
+            ],
+            "orientation": 0,
+            "width": 14.758,
+            "x": 1639.01,
+            "y": 947.246
+          },
+          {
+            "category": "text",
+            "classId": 0,
+            "classLabel": "text",
+            "confidence": 0.932,
+            "height": 13.181,
+            "id": 1552,
+            "orientation": 0,
+            "width": 59.749,
+            "x": 1752.707,
+            "y": 962.79
+          },
+          {
+            "category": "text",
+            "classId": 0,
+            "classLabel": "text",
+            "confidence": 0.861,
+            "height": 21.624,
+            "id": 1558,
+            "orientation": 0,
+            "width": 45.015,
+            "x": 1594.181,
+            "y": 863.227
+          }
+        ],
+        "orientation": 0,
+        "width": 415.93,
+        "x": 1404.72,
+        "y": 857.78,
+        "source_height": 1080,
+        "source_width": 1920
+      }
+    ],
+    "seconds": 0,
+    "source_height": 1080,
+    "source_id": "dafcd6ee-0406-11ef-a9f5-0242ac110007",
+    "source_width": 1920,
+    "system_timestamp": 1714161296736914000,
+    "timestamp": 0,
+    "count": 1
+  }
+]
